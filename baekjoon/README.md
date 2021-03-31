@@ -41,6 +41,13 @@ https://www.acmicpc.net/
 * 14503 로봇 청소기 (미해결) - [문제](https://www.acmicpc.net/problem/14503)
 * 16472 고냥이 (미해결) - [문제](https://www.acmicpc.net/problem/16472)
 
+#### 2021.04.06
+* 1922 네트워크 연결 (미해결) - [문제](https://www.acmicpc.net/problem/1922)
+* 1991 트리 순회 (미해결) - [문제](https://www.acmicpc.net/problem/1991)
+* 4192 친구 네트워크 (미해결) - [문제](https://www.acmicpc.net/problem/4195)
+* 9177 단어 섞기 (미해결) - [문제](https://www.acmicpc.net/problem/9177)
+* 10424 알고리즘 기말고사 (미해결) - [문제](https://www.acmicpc.net/problem/10424)
+
 
 <br />
 
@@ -60,6 +67,9 @@ https://solved.ac/
 * 2562 최댓값 - [문제](https://www.acmicpc.net/problem/2562), [풀이](Problem_2562.java)
 * 2753 윤년 - [문제](https://www.acmicpc.net/problem/2753), [풀이](Problem_2753.java)
 * 3052 나머지 - [문제](https://www.acmicpc.net/problem/3052), [풀이](Problem_3052.java)
+
+#### CLASS 2
+* 1085 직사각형에서 탈출 - [문제](https://www.acmicpc.net/problem/1085), [풀이](Problem_1085.java)
 
 <br />
 

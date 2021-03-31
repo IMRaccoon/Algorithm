@@ -35,7 +35,7 @@ https://www.acmicpc.net/
 * 7453 합이 0인 네 정수 - [문제](https://www.acmicpc.net/problem/7453), [풀이](Problem_7453.java)
 
 #### 2021.03.30
-* 2011 암호코드 (미해결) - [문제](https://www.acmicpc.net/problem/2011)
+* 2011 암호코드 - [문제](https://www.acmicpc.net/problem/2011), [풀이](Problem_2011.java)
 * 2591 숫자카드 - [문제](https://www.acmicpc.net/problem/2591), [풀이](Problem_2591.java)
 * 9663 N-Queen - [문제](https://www.acmicpc.net/problem/9663), [풀이](Problem_9663.java)
 * 14503 로봇 청소기 (미해결) - [문제](https://www.acmicpc.net/problem/14503)

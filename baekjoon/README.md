@@ -44,9 +44,9 @@ https://www.acmicpc.net/
 #### 2021.04.06
 * 1922 네트워크 연결 (미해결) - [문제](https://www.acmicpc.net/problem/1922)
 * 1991 트리 순회 - [문제](https://www.acmicpc.net/problem/1991), [풀이](Problem_1991.java)
-* 4192 친구 네트워크 (미해결) - [문제](https://www.acmicpc.net/problem/4195)
+* 4195 친구 네트워크 (미해결) - [문제](https://www.acmicpc.net/problem/4195)
 * 9177 단어 섞기 (미해결) - [문제](https://www.acmicpc.net/problem/9177)
-* 10424 알고리즘 기말고사 (미해결) - [문제](https://www.acmicpc.net/problem/10424)
+* 10424 알고리즘 기말고사 - [문제](https://www.acmicpc.net/problem/10424), [풀이](Problem_10424.java)
 
 
 <br />

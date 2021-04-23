@@ -44,7 +44,7 @@ https://www.acmicpc.net/
 #### 2021.04.06
 * 1922 네트워크 연결 - [문제](https://www.acmicpc.net/problem/1922), [풀이](Problem_1922.java)
 * 1991 트리 순회 - [문제](https://www.acmicpc.net/problem/1991), [풀이](Problem_1991.java)
-* 4195 친구 네트워크 (미해결) - [문제](https://www.acmicpc.net/problem/4195)
+* 4195 친구 네트워크 - [문제](https://www.acmicpc.net/problem/4195), [풀이](Problem_4195.java)
 * 9177 단어 섞기 - [문제](https://www.acmicpc.net/problem/9177), [풀이](Problem_9177.java)
 * 10424 알고리즘 기말고사 - [문제](https://www.acmicpc.net/problem/10424), [풀이](Problem_10424.java)
 

@@ -1,8 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Problem_5021 {
     static ArrayList<Person> person = new ArrayList<>();
@@ -14,7 +13,6 @@ public class Problem_5021 {
 
 
         Person king = new Person(br.readLine());
-        king.royalBlood = 1;
         person.add(king);
 
         for(int i = 0 ; i < familyNumber; i++) {
@@ -27,23 +25,36 @@ public class Problem_5021 {
             Person parentFirst = findPerson(parentFirstName);
             Person parentSecond = findPerson(parentSecondName);
 
-            child.parent1 = parentFirst;
-            child.parent2 = parentSecond;
+            parentFirst.children.add(child);
+            parentSecond.children.add(child);
         }
 
-
-        String nextKingName = "";
-        float royalBlood = -1;
-
-        for(int i = 0; i < claimNumber; i++) {
-            Person target = findPerson(br.readLine());
-            float targetBlood = traceBlood(target);
-            if (targetBlood > royalBlood) {
-                nextKingName = target.name;
-                royalBlood = targetBlood;
+        double blood = 0;
+        String name = "";
+        for(int i = 0 ; i <claimNumber; i++) {
+            Person cur = findPerson(br.readLine());
+            double curBlood =  dfs(cur, king, 0);
+            if(blood < curBlood) {
+                blood = curBlood;
+                name = cur.name;
             }
         }
-        System.out.println(nextKingName);
+        System.out.println(name);
+    }
+
+    public static double dfs(Person target, Person cur, int depth) {
+        double ret = 0;
+
+        if(target.name.equals(cur.name)) {
+            return Math.pow(0.5, depth);
+        }
+        else {
+            for(Person child : cur.children) {
+                ret += dfs(target, child, depth + 1);
+            }
+        }
+
+        return ret;
     }
 
     public static Person findPerson(String name) {
@@ -57,21 +68,13 @@ public class Problem_5021 {
         return newPerson;
     }
 
-    public static float traceBlood(Person p) {
-        if(p.parent1 == null) {
-            return p.royalBlood;
-        }
-        return (traceBlood(p.parent1) + traceBlood(p.parent2)) / 2;
-    }
-
-
     static class Person {
-        Person parent1 = null, parent2 = null;
-        float royalBlood = 0;
+        ArrayList<Person> children;
         String name;
 
         public Person(String name) {
             this.name = name;
+            children = new ArrayList<>();
         }
     }
 }

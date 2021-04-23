@@ -23,7 +23,7 @@ https://www.acmicpc.net/
 #### 2021.03.19
 * 1463 1로 만들기 - [문제](https://www.acmicpc.net/problem/1463), [풀이](Problem_1463.java)
 * 2156 포도주 시식 - [문제](https://www.acmicpc.net/problem/2156), [풀이](Problem_2156.java)
-* 5021 왕위 계승 (미해결) - [문제](https://www.acmicpc.net/problem/5021)
+* 5021 왕위 계승 - [문제](https://www.acmicpc.net/problem/5021), [풀이](Problem_5021.java)
 * 6064 카잉 달력 - [문제](https://www.acmicpc.net/problem/6064), [풀이](Problem_6064.java)
 * 14391 종이 조각 - [문제](https://www.acmicpc.net/problem/14391), [풀이](Problem_14391.java)
 
@@ -48,6 +48,11 @@ https://www.acmicpc.net/
 * 9177 단어 섞기 - [문제](https://www.acmicpc.net/problem/9177), [풀이](Problem_9177.java)
 * 10424 알고리즘 기말고사 - [문제](https://www.acmicpc.net/problem/10424), [풀이](Problem_10424.java)
 
+#### 2021.04.13
+* 1041 주사위 (미해결) - [문제](https://www.acmicpc.net/problem/1041)
+* 14171 Cities and States (미해결) - [문제](https://www.acmicpc.net/problem/14171)
+* 16234 나무 재테크 (미해결) - [문제](https://www.acmicpc.net/problem/16235) 
+* 17836 공주님을 구해라! (미해결) - [문제](https://www.acmicpc.net/problem/17836)
 
 <br />
 

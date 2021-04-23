@@ -42,7 +42,7 @@ https://www.acmicpc.net/
 * 16472 고냥이 - [문제](https://www.acmicpc.net/problem/16472), [풀이](Problem_16472.java)
 
 #### 2021.04.06
-* 1922 네트워크 연결 (미해결) - [문제](https://www.acmicpc.net/problem/1922)
+* 1922 네트워크 연결 - [문제](https://www.acmicpc.net/problem/1922), [풀이](Problem_1922.java)
 * 1991 트리 순회 - [문제](https://www.acmicpc.net/problem/1991), [풀이](Problem_1991.java)
 * 4195 친구 네트워크 (미해결) - [문제](https://www.acmicpc.net/problem/4195)
 * 9177 단어 섞기 - [문제](https://www.acmicpc.net/problem/9177), [풀이](Problem_9177.java)

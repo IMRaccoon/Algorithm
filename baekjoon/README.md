@@ -76,6 +76,7 @@ https://solved.ac/
 #### CLASS 2
 * 1085 직사각형에서 탈출 - [문제](https://www.acmicpc.net/problem/1085), [풀이](Problem_1085.java)
 * 1259 팰린드롬수 - [문제](https://www.acmicpc.net/problem/1259), [풀이](Problem_1259.java)
+* 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)
 
 <br />
 

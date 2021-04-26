@@ -87,6 +87,7 @@ https://solved.ac/
 * 2775 부녀회장이 될테야 - [문제](https://www.acmicpc.net/problem/2775), [풀이](Problem_2775.java)
 * 2798 블랙잭 - [문제](https://www.acmicpc.net/problem/2798), [풀이](Problem_2798.java)
 * 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)
+* 7568 덩치 - [문제](https://www.acmicpc.net/problem/7568), [풀이](Problem_7568.java)
 * 10250 ACM 호텔 - [문제](https://www.acmicpc.net/problem/10250), [풀이](Problem_10250.java)
 * 10814 나이순 정렬 - [문제](https://www.acmicpc.net/problem/10814), [풀이](Problem_10814.java)
 * 10816 나이순 정렬 - [문제](https://www.acmicpc.net/problem/10816), [풀이](Problem_10816.java)

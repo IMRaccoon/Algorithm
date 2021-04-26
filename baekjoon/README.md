@@ -80,6 +80,7 @@ https://solved.ac/
 * 1259 팰린드롬수 - [문제](https://www.acmicpc.net/problem/1259), [풀이](Problem_1259.java)
 * 1436 영화감독 숌 - [문제](https://www.acmicpc.net/problem/1436), [풀이](Problem_1436.java)
 * 1978 소수 찾기 - [문제](https://www.acmicpc.net/problem/1978), [풀이](Problem_1978.java)
+* 2164 카드2 - [문제](https://www.acmicpc.net/problem/2164), [풀이](Problem_2164.java)
 * 2231 분해합 - [문제](https://www.acmicpc.net/problem/2231), [풀이](Problem_2231.java)
 * 2609 최대공약수와 최소공배수 - [문제](https://www.acmicpc.net/problem/2609), [풀이](Problem_2609.java)
 * 2751 수 정렬하기 2 - [문제](https://www.acmicpc.net/problem/2751), [풀이](Problem_2751.java)

@@ -81,6 +81,7 @@ https://solved.ac/
 * 1436 영화감독 숌 - [문제](https://www.acmicpc.net/problem/1436), [풀이](Problem_1436.java)
 * 2231 분해합 - [문제](https://www.acmicpc.net/problem/2231), [풀이](Problem_2231.java)
 * 2609 최대공약수와 최소공배수 - [문제](https://www.acmicpc.net/problem/2609), [풀이](Problem_2609.java)
+* 2751 수 정렬하기 2 - [문제](https://www.acmicpc.net/problem/2751), [풀이](Problem_2751.java)
 * 2775 부녀회장이 될테야 - [문제](https://www.acmicpc.net/problem/2775), [풀이](Problem_2775.java)
 * 2798 블랙잭 - [문제](https://www.acmicpc.net/problem/2798), [풀이](Problem_2798.java)
 * 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)

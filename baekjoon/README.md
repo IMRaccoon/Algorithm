@@ -74,6 +74,7 @@ https://solved.ac/
 * 3052 나머지 - [문제](https://www.acmicpc.net/problem/3052), [풀이](Problem_3052.java)
 
 #### CLASS 2
+* 1018 체스판 다시 칠하기 - [문제](https://www.acmicpc.net/problem/1018), [풀이](Problem_1018.java)
 * 1085 직사각형에서 탈출 - [문제](https://www.acmicpc.net/problem/1085), [풀이](Problem_1085.java)
 * 1259 팰린드롬수 - [문제](https://www.acmicpc.net/problem/1259), [풀이](Problem_1259.java)
 * 2231 분해합 - [문제](https://www.acmicpc.net/problem/2231), [풀이](Problem_2231.java)
@@ -81,6 +82,7 @@ https://solved.ac/
 * 2798 블랙잭 - [문제](https://www.acmicpc.net/problem/2798), [풀이](Problem_2798.java)
 * 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)
 * 10250 ACM 호텔 - [문제](https://www.acmicpc.net/problem/10250), [풀이](Problem_10250.java)
+* 11050 이항 계수1 - [문제](https://www.acmicpc.net/problem/11050), [풀이](Problem_11050.java)
 * 15829 Hashing - [문제](https://www.acmicpc.net/problem/15829), [풀이](Problem_15829.java)
 
 <br />

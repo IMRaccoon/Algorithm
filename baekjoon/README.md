@@ -81,6 +81,7 @@ https://solved.ac/
 * 2798 블랙잭 - [문제](https://www.acmicpc.net/problem/2798), [풀이](Problem_2798.java)
 * 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)
 * 10250 ACM 호텔 - [문제](https://www.acmicpc.net/problem/10250), [풀이](Problem_10250.java)
+* 15829 Hashing - [문제](https://www.acmicpc.net/problem/15829), [풀이](Problem_15829.java)
 
 <br />
 

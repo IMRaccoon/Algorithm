@@ -94,6 +94,7 @@ https://solved.ac/
 * 10866 나이순 정렬 - [문제](https://www.acmicpc.net/problem/10866), [풀이](Problem_10866.java)
 * 11050 이항 계수1 - [문제](https://www.acmicpc.net/problem/11050), [풀이](Problem_11050.java)
 * 11650 좌표 정렬하기 - [문제](https://www.acmicpc.net/problem/11650), [풀이](Problem_11650.java)
+* 11866 요세푸스 문제 0 - [문제](https://www.acmicpc.net/problem/11866), [풀이](Problem_11866.java)
 * 15829 Hashing - [문제](https://www.acmicpc.net/problem/15829), [풀이](Problem_15829.java)
 
 <br />

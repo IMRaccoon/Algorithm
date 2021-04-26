@@ -77,6 +77,7 @@ https://solved.ac/
 * 1085 직사각형에서 탈출 - [문제](https://www.acmicpc.net/problem/1085), [풀이](Problem_1085.java)
 * 1259 팰린드롬수 - [문제](https://www.acmicpc.net/problem/1259), [풀이](Problem_1259.java)
 * 2231 분해합 - [문제](https://www.acmicpc.net/problem/2231), [풀이](Problem_2231.java)
+* 2775 부녀회장이 될테야 - [문제](https://www.acmicpc.net/problem/2775), [풀이](Problem_2775.java)
 * 4153 직각삼각형 - [문제](https://www.acmicpc.net/problem/4153), [풀이](Problem_4153.java)
 * 10250 ACM 호텔 - [문제](https://www.acmicpc.net/problem/10250), [풀이](Problem_10250.java)
 

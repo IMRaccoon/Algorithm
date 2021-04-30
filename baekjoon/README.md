@@ -52,7 +52,7 @@ https://www.acmicpc.net/
 * 1041 주사위 (미해결) - [문제](https://www.acmicpc.net/problem/1041)
 * 14171 Cities and States - [문제](https://www.acmicpc.net/problem/14171), [풀이](Problem_14171.java)
 * 16234 나무 재테크 (미해결) - [문제](https://www.acmicpc.net/problem/16235) 
-* 17836 공주님을 구해라! (미해결) - [문제](https://www.acmicpc.net/problem/17836), [풀이](Problem_17836.java)
+* 17836 공주님을 구해라! - [문제](https://www.acmicpc.net/problem/17836), [풀이](Problem_17836.java)
 
 #### 2021.05.04
 * 1005 ACM Craft (미해결) - [문제](https://www.acmicpc.net/problem/1005)

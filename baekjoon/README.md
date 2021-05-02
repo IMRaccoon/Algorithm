@@ -57,7 +57,7 @@ https://www.acmicpc.net/
 #### 2021.05.04
 * 1005 ACM Craft (미해결) - [문제](https://www.acmicpc.net/problem/1005)
 * 1757 달려달려 (미해결) - [문제](https://www.acmicpc.net/problem/1757)
-* 11000 강의실 배정 (미해결) - [문제](https://www.acmicpc.net/problem/11000)
+* 11000 강의실 배정 - [문제](https://www.acmicpc.net/problem/11000), [풀이](Problem_11000.java)
 * 11952 좀비 (미해결) - [문제](https://www.acmicpc.net/problem/11952)
 * 19582 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여 - [문제](https://www.acmicpc.net/problem/19582), [풀이](Problem_19582.java)
 

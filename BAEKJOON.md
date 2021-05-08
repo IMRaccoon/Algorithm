@@ -85,7 +85,7 @@ https://solved.ac/
 
 #### CLASS 1
 
-- 2475 검증수 - [문제](https://www.acmicpc.net/problem/2475), [Java](Java/baekjoon/Problem_2475.java)
+- 2475 검증수 - [문제](https://www.acmicpc.net/problem/2475), [Java](Java/baekjoon/Problem_2475.java) [C++](Cpp/baekjoon/Problem_2475.cpp)
 - 2562 최댓값 - [문제](https://www.acmicpc.net/problem/2562), [Java](Java/baekjoon/Problem_2562.java)
 - 2753 윤년 - [문제](https://www.acmicpc.net/problem/2753), [Java](Java/baekjoon/Problem_2753.java)
 - 3052 나머지 - [문제](https://www.acmicpc.net/problem/3052), [Java](Java/baekjoon/Problem_3052.java)

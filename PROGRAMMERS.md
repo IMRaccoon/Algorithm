@@ -63,7 +63,7 @@ N개의 최소 공배수
 
 ### 찾아라 프로그래밍 마에스터
 
-폰켓몬
+폰켓몬 [Java](Java/programmers/find_programming_maestro/PhoneKetmon.java) [C++](Cpp/programmers/PhoneKetmon.cpp)
 
 ### 2017 카카오코드
 

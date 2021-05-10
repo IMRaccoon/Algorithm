@@ -71,6 +71,15 @@ https://www.acmicpc.net/
 
 <br />
 
+#### 2021.05.11
+
+- 1916 최소비용 구하기 - [문제](https://www.acmicpc.net/problem/1916), [Java](Java/baekjoon/Problem_1916.java)
+- 2619 경찰차 (미해결) - [문제](https://www.acmicpc.net/problem/2618)
+- 10282 해킹 (미해결) - [문제](https://www.acmicpc.net/problem/10282)
+- 18235 지금 만나러 갑니다 (미해결) - [문제](https://www.acmicpc.net/problem/18235)
+
+<br />
+
 ## 삼성 A형 기출 문제
 
 - 16637 괄호 더하기 - [문제](https://www.acmicpc.net/problem/16637), [Java](Java/baekjoon/Samsung_type_A_problems/Problem_16637.java)

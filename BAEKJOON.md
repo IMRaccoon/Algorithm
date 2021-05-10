@@ -76,7 +76,7 @@ https://www.acmicpc.net/
 - 1916 최소비용 구하기 - [문제](https://www.acmicpc.net/problem/1916), [Java](Java/baekjoon/Problem_1916.java)
 - 2619 경찰차 (미해결) - [문제](https://www.acmicpc.net/problem/2618)
 - 10282 해킹 - [문제](https://www.acmicpc.net/problem/10282), [Java](Java/baekjoon/Problem_10282.java)
-- 18235 지금 만나러 갑니다 (미해결) - [문제](https://www.acmicpc.net/problem/18235)
+- 18235 지금 만나러 갑니다 - [문제](https://www.acmicpc.net/problem/18235), [Java](Java/baekjoon/Problem_18235.java)
 
 <br />
 

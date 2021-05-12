@@ -74,7 +74,7 @@ https://www.acmicpc.net/
 #### 2021.05.11
 
 - 1916 최소비용 구하기 - [문제](https://www.acmicpc.net/problem/1916), [Java](Java/baekjoon/Problem_1916.java)
-- 2619 경찰차 (미해결) - [문제](https://www.acmicpc.net/problem/2618)
+- 2618 경찰차 (미해결) - [문제](https://www.acmicpc.net/problem/2618)
 - 10282 해킹 - [문제](https://www.acmicpc.net/problem/10282), [Java](Java/baekjoon/Problem_10282.java)
 - 18235 지금 만나러 갑니다 - [문제](https://www.acmicpc.net/problem/18235), [Java](Java/baekjoon/Problem_18235.java)
 
@@ -106,6 +106,7 @@ https://solved.ac/
 - 1181 단어 정렬 - [문제](https://www.acmicpc.net/problem/1181), [Java](Java/baekjoon/Problem_1181.java)
 - 1259 팰린드롬수 - [문제](https://www.acmicpc.net/problem/1259), [Java](Java/baekjoon/Problem_1259.java)
 - 1436 영화감독 숌 - [문제](https://www.acmicpc.net/problem/1436), [Java](Java/baekjoon/Problem_1436.java)
+- 1654 랜선 자르기 - [문제](https://www.acmicpc.net/problem/1654), [Java](Java/baekjoon/Problem_1654.java)
 - 1978 소수 찾기 - [문제](https://www.acmicpc.net/problem/1978), [Java](Java/baekjoon/Problem_1978.java)
 - 2108 통계학 - [문제](https://www.acmicpc.net/problem/2108), [Java](Java/baekjoon/Problem_2108.java)
 - 2164 카드2 - [문제](https://www.acmicpc.net/problem/2164), [Java](Java/baekjoon/Problem_2164.java)

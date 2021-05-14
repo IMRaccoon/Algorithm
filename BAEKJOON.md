@@ -84,7 +84,7 @@ https://www.acmicpc.net/
 
 - 1647 도시 분할 계획 - [문제](https://www.acmicpc.net/problem/1647), [Java](Java/baekjoon/Problem_1647.java)
 - 11403 경로찾기 - [문제](https://www.acmicpc.net/problem/11403), [Java](Java/baekjoon/Problem_11403.java)
-- 11725 트리의 부모 찾기 (미해결) - [문제](https://www.acmicpc.net/problem/11725)
+- 11725 트리의 부모 찾기- [문제](https://www.acmicpc.net/problem/11725), [Java](Java/baekjoon/Problem_11725.java)
 - 15663 N과 M (미해결) - [문제](https://www.acmicpc.net/problem/15663)
 
 ## 삼성 A형 기출 문제

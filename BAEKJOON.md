@@ -35,7 +35,7 @@ https://www.acmicpc.net/
 - 1058 친구 - [문제](https://www.acmicpc.net/problem/1058), [Java](Java/baekjoon/Problem_1058.java)
 - 1747 소수&팰린드롬 - [문제](https://www.acmicpc.net/problem/1747), [Java](Java/baekjoon/Problem_1747.java)
 - 1753 최단경로 - [문제](https://www.acmicpc.net/problem/1753), [Java](Java/baekjoon/Problem_1753.java)
-- 4781 사탕가게 - [문제](https://www.acmicpc.net/problem/4781), [Java](Java/baekjoon/Problem_4781.java)
+- 4781 사탕가게 (미해결) - [문제](https://www.acmicpc.net/problem/4781), [Java](Java/baekjoon/Problem_4781.java)
 - 7453 합이 0인 네 정수 - [문제](https://www.acmicpc.net/problem/7453), [Java](Java/baekjoon/Problem_7453.java)
 
 #### 2021.03.30
@@ -86,6 +86,18 @@ https://www.acmicpc.net/
 - 11403 경로찾기 - [문제](https://www.acmicpc.net/problem/11403), [Java](Java/baekjoon/Problem_11403.java)
 - 11725 트리의 부모 찾기- [문제](https://www.acmicpc.net/problem/11725), [Java](Java/baekjoon/Problem_11725.java)
 - 15663 N과 M (9) - [문제](https://www.acmicpc.net/problem/15663), [Java](Java/baekjoon/Problem_15663.java)
+
+<br />
+
+#### 2021.05.25
+
+- 1389 케빈 베이컨의 6단계 법칙 - [문제](https://www.acmicpc.net/problem/1389), [Java](Java/baekjoon/Problem_1389.java)
+- 1504 특정한 최단 경로 (미해결) - [문제](https://www.acmicpc.net/problem/1504)
+- 2467 용액 (미해결) - [문제](https://www.acmicpc.net/problem/2467)
+- 9097 Quad Trees (미해결) - [문제](https://www.acmicpc.net/problem/9097)
+- 17404 RGB거리 2 (미해결) - [문제](https://www.acmicpc.net/problem/17404)
+
+<br />
 
 ## 삼성 A형 기출 문제
 

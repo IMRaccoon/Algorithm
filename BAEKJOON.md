@@ -95,7 +95,7 @@ https://www.acmicpc.net/
 - 1504 특정한 최단 경로 - [문제](https://www.acmicpc.net/problem/1504), [Java](Java/baekjoon/Problem_1504.java)
 - 2467 용액 - [문제](https://www.acmicpc.net/problem/2467), [Java](Java/baekjoon/Problem_2467.java)
 - 9097 Quad Trees - [문제](https://www.acmicpc.net/problem/9097), [Java](Java/baekjoon/Problem_9097.java)
-- 17404 RGB거리 2 (미해결) - [문제](https://www.acmicpc.net/problem/17404)
+- 17404 RGB거리 2 - [문제](https://www.acmicpc.net/problem/17404), [Java](Java/baekjoon/Problem_17404.java)
 
 <br />
 

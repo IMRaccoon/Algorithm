@@ -35,7 +35,7 @@ https://www.acmicpc.net/
 - 1058 친구 - [문제](https://www.acmicpc.net/problem/1058), [Java](Java/baekjoon/Problem_1058.java)
 - 1747 소수&팰린드롬 - [문제](https://www.acmicpc.net/problem/1747), [Java](Java/baekjoon/Problem_1747.java)
 - 1753 최단경로 - [문제](https://www.acmicpc.net/problem/1753), [Java](Java/baekjoon/Problem_1753.java)
-- 4781 사탕가게 (미해결) - [문제](https://www.acmicpc.net/problem/4781), [Java](Java/baekjoon/Problem_4781.java)
+- 4781 사탕가게 - [문제](https://www.acmicpc.net/problem/4781), [Java](Java/baekjoon/Problem_4781.java)
 - 7453 합이 0인 네 정수 - [문제](https://www.acmicpc.net/problem/7453), [Java](Java/baekjoon/Problem_7453.java)
 
 #### 2021.03.30
@@ -101,12 +101,12 @@ https://www.acmicpc.net/
 
 #### 2021.06.01
 
-- 2098 외판원 순회 - [문제](https://www.acmicpc.net/problem/2098), [Java](Java/baekjoon/Problem_2098.java)
-- 17143 낚시왕 (미해결) - [문제](https://www.acmicpc.net/problem/17143)
-- 9466 텀 프로젝트 (미해결) - [문제](https://www.acmicpc.net/problem/9466)
 - 1865 웜홀 (미해결) - [문제](https://www.acmicpc.net/problem/1865)
+- 2098 외판원 순회 - [문제](https://www.acmicpc.net/problem/2098), [Java](Java/baekjoon/Problem_2098.java)
+- 9466 텀 프로젝트 (미해결) - [문제](https://www.acmicpc.net/problem/9466)
 - 12738 가장 긴 증가하는 부분 수열 3 (미해결) - [문제](https://www.acmicpc.net/problem/12738)
 - 12850 본대 산책 2 (미해결) - [문제](https://www.acmicpc.net/problem/12850)
+- 17143 낚시왕 (미해결) - [문제](https://www.acmicpc.net/problem/17143)
 
 ## 삼성 A형 기출 문제
 

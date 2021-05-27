@@ -99,6 +99,15 @@ https://www.acmicpc.net/
 
 <br />
 
+#### 2021.06.01
+
+- 2098 외판원 순회 - [문제](https://www.acmicpc.net/problem/2098), [Java](Java/baekjoon/Problem_2098.java)
+- 17143 낚시왕 (미해결) - [문제](https://www.acmicpc.net/problem/17143)
+- 9466 텀 프로젝트 (미해결) - [문제](https://www.acmicpc.net/problem/9466)
+- 1865 웜홀 (미해결) - [문제](https://www.acmicpc.net/problem/1865)
+- 12738 가장 긴 증가하는 부분 수열 3 (미해결) - [문제](https://www.acmicpc.net/problem/12738)
+- 12850 본대 산책 2 (미해결) - [문제](https://www.acmicpc.net/problem/12850)
+
 ## 삼성 A형 기출 문제
 
 - 16637 괄호 더하기 - [문제](https://www.acmicpc.net/problem/16637), [Java](Java/baekjoon/Samsung_type_A_problems/Problem_16637.java)

@@ -9,7 +9,7 @@ https://www.acmicpc.net/
 #### 2021.03.05
 
 - 1783 병든 나이트 - [문제](https://www.acmicpc.net/problem/1783), [Java](Java/baekjoon/Problem_1783.java)
-- 2228 구간나누기 (미해결) - [문제](https://www.acmicpc.net/problem/2228)
+- 2228 구간나누기 - [문제](https://www.acmicpc.net/problem/2228), [Java](Java/baekjoon/Problem_2228.java)
 - 2792 보석상자 - [문제](https://www.acmicpc.net/problem/2792), [Java](Java/baekjoon/Problem_2792.java)
 - 7576 토마토 - [문제](https://www.acmicpc.net/problem/7576), [Java](Java/baekjoon/Problem_7576.java)
 - 15979 스승님 찾기 - [문제](https://www.acmicpc.net/problem/15979), [Java](Java/baekjoon/Problem_15979.java)

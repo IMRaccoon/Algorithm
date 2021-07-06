@@ -18,7 +18,7 @@ public class Problem_1041 {
         }
 
         int a = Math.min(dice[0], dice[5]);
-        int b = Math.min(dice[1], dice[2]);
+        int b = Math.min(dice[1], dice[4]);
         int c = Math.min(dice[2], dice[3]);
 
         long firstDimension = Math.min(a, Math.min(b, c));

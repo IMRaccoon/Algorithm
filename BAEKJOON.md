@@ -56,7 +56,7 @@ https://www.acmicpc.net/
 
 #### 2021.04.13
 
-- 1041 주사위 (미해결) - [문제](https://www.acmicpc.net/problem/1041)
+- 1041 주사위 - [문제](https://www.acmicpc.net/problem/1041), [Java](Java/baekjoon/Problem_1041.java)
 - 14171 Cities and States - [문제](https://www.acmicpc.net/problem/14171), [Java](Java/baekjoon/Problem_14171.java)
 - 16234 나무 재테크 (미해결) - [문제](https://www.acmicpc.net/problem/16235)
 - 17836 공주님을 구해라! - [문제](https://www.acmicpc.net/problem/17836), [Java](Java/baekjoon/Problem_17836.java)

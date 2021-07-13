@@ -110,6 +110,14 @@ https://www.acmicpc.net/
 
 <br/ >
 
+#### 2021.07.16
+
+- 1484 다이어트 - [문제](https://www.acmicpc.net/problem/1484), [Java](Java/baekjoon/Problem_1484.java)
+- 12907 동물원 (미해결) - [문제](https://www.acmicpc.net/problem/12907)
+- 17616 등수 찾기 (미해결) - [문제](https://www.acmicpc.net/problem/17616)
+
+<br />
+
 ## 삼성 A형 기출 문제
 
 - 16637 괄호 더하기 - [문제](https://www.acmicpc.net/problem/16637), [Java](Java/baekjoon/Samsung_type_A_problems/Problem_16637.java)

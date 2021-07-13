@@ -202,6 +202,7 @@ https://solved.ac/
 | 1654  | S3   | [랜선 자르기](https://www.acmicpc.net/problem/1654)             | [Java](Java/baekjoon/Problem_1654.java)  |
 | 1874  | S3   | [스택 수열](https://www.acmicpc.net/problem/1874)               | [Java](Java/baekjoon/Problem_1874.java)  |
 | 1929  | S2   | [소수 구하기](https://www.acmicpc.net/problem/1929)             | [Java](Java/baekjoon/Problem_1929.java)  |
+| 1966  | S3   | [프린터 큐](https://www.acmicpc.net/problem/1966)               | [Java](Java/baekjoon/Problem_1966.java)  |
 | 1978  | S4   | [소수 찾기](https://www.acmicpc.net/problem/1978)               | [Java](Java/baekjoon/Problem_1978.java)  |
 | 2108  | S4   | [통계학](https://www.acmicpc.net/problem/2108)                  | [Java](Java/baekjoon/Problem_2108.java)  |
 | 2164  | S4   | [카드2](https://www.acmicpc.net/problem/2164)                   | [Java](Java/baekjoon/Problem_2164.java)  |

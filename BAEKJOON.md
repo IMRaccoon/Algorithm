@@ -212,6 +212,7 @@ https://solved.ac/
 | 2775  | B2   | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)       | [Java](Java/baekjoon/Problem_2775.java)  |
 | 2798  | B2   | [블랙잭](https://www.acmicpc.net/problem/2798)                  | [Java](Java/baekjoon/Problem_2798.java)  |
 | 4153  | B3   | [직각삼각형](https://www.acmicpc.net/problem/4153)              | [Java](Java/baekjoon/Problem_4153.java)  |
+| 4949  | S4   | [균형잡힌 세상](https://www.acmicpc.net/problem/4949)           | [Java](Java/baekjoon/Problem_4949.java)  |
 | 7568  | S5   | [덩치](https://www.acmicpc.net/problem/7568)                    | [Java](Java/baekjoon/Problem_7568.java)  |
 | 10250 | B3   | [ACM 호텔](https://www.acmicpc.net/problem/10250)               | [Java](Java/baekjoon/Problem_10250.java) |
 | 10814 | S5   | [나이순 정렬](https://www.acmicpc.net/problem/10814)            | [Java](Java/baekjoon/Problem_10814.java) |

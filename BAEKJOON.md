@@ -231,7 +231,11 @@ https://solved.ac/
 
 </details>
 
-## 기타 해결 문제
+<details>
+<summary>Class 3</summary>
 
-- 1920 수 찾기 - [문제](https://www.acmicpc.net/problem/1920), [Java](Java/baekjoon/Problem_1920.java)
-- 5622 다이얼 - [문제](https://www.acmicpc.net/problem/5622), [Java](Java/baekjoon/Problem_5622.java)
+| 번호 | 티어 | 제목                                                  | 풀이                                    |
+| ---- | ---- | ----------------------------------------------------- | --------------------------------------- |
+| 1003 | S3   | [파보나치 수열](https://www.acmicpc.net/problem/1003) | [Java](Java/baekjoon/Problem_1003.java) |
+
+</details>

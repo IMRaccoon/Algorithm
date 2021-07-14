@@ -246,5 +246,6 @@ https://solved.ac/
 | 1676 | S4   | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [Java](Java/baekjoon/Problem_1676.java) |
 | 1697 | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java) |
 | 1764 | S4   | [듣보잡](https://www.acmicpc.net/problem/1764)                      | [Java](Java/baekjoon/Problem_1764.java) |
+| 1927 | S1   | [최소 힙](https://www.acmicpc.net/problem/1927)                     | [Java](Java/baekjoon/Problem_1927.java) |
 
 </details>

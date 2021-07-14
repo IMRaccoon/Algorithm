@@ -226,6 +226,7 @@ https://solved.ac/
 | 11651 | S5   | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)        | [Java](Java/baekjoon/Problem_11651.java) |
 | 11866 | S4   | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)        | [Java](Java/baekjoon/Problem_11866.java) |
 | 15829 | B2   | [Hashing](https://www.acmicpc.net/problem/15829)                | [Java](Java/baekjoon/Problem_15829.java) |
+| 18111 | S3   | [마인크래프트](https://www.acmicpc.net/problem/18111)           | [Java](Java/baekjoon/Problem_18111.java) |
 
 </details>
 

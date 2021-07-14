@@ -244,5 +244,6 @@ https://solved.ac/
 | 1541 | S2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | [Java](Java/baekjoon/Problem_1541.java) |
 | 1620 | S4   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [Java](Java/baekjoon/Problem_1620.java) |
 | 1676 | S4   | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [Java](Java/baekjoon/Problem_1676.java) |
+| 1697 | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java) |
 
 </details>

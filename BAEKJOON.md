@@ -241,5 +241,6 @@ https://solved.ac/
 | 1074 | S1   | [Z](https://www.acmicpc.net/problem/1074)             | [Java](Java/baekjoon/Problem_1074.java) |
 | 1107 | G5   | [리모컨](https://www.acmicpc.net/problem/1107)        | [Java](Java/baekjoon/Problem_1107.java) |
 | 1260 | S2   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | [Java](Java/baekjoon/Problem_1260.java) |
+| 1541 | S2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [Java](Java/baekjoon/Problem_1541.java) |
 
 </details>

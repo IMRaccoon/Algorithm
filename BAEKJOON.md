@@ -215,6 +215,7 @@ https://solved.ac/
 | 4949  | S4   | [균형잡힌 세상](https://www.acmicpc.net/problem/4949)           | [Java](Java/baekjoon/Problem_4949.java)  |
 | 7568  | S5   | [덩치](https://www.acmicpc.net/problem/7568)                    | [Java](Java/baekjoon/Problem_7568.java)  |
 | 10250 | B3   | [ACM 호텔](https://www.acmicpc.net/problem/10250)               | [Java](Java/baekjoon/Problem_10250.java) |
+| 10773 | S4   | [제로](https://www.acmicpc.net/problem/10773)                   | [Java](Java/baekjoon/Problem_10773.java) |
 | 10814 | S5   | [나이순 정렬](https://www.acmicpc.net/problem/10814)            | [Java](Java/baekjoon/Problem_10814.java) |
 | 10816 | S4   | [숫자 카드 2](https://www.acmicpc.net/problem/10816)            | [Java](Java/baekjoon/Problem_10816.java) |
 | 10845 | S4   | [큐](https://www.acmicpc.net/problem/10845)                     | [Java](Java/baekjoon/Problem_10845.java) |

@@ -245,5 +245,6 @@ https://solved.ac/
 | 1620 | S4   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [Java](Java/baekjoon/Problem_1620.java) |
 | 1676 | S4   | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [Java](Java/baekjoon/Problem_1676.java) |
 | 1697 | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java) |
+| 1764 | S4   | [듣보잡](https://www.acmicpc.net/problem/1764)                      | [Java](Java/baekjoon/Problem_1764.java) |
 
 </details>

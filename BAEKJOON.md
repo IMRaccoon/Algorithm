@@ -240,5 +240,6 @@ https://solved.ac/
 | 1012 | S2   | [파보나치 수열](https://www.acmicpc.net/problem/1012) | [Java](Java/baekjoon/Problem_1012.java) |
 | 1074 | S1   | [Z](https://www.acmicpc.net/problem/1074)             | [Java](Java/baekjoon/Problem_1074.java) |
 | 1107 | G5   | [리모컨](https://www.acmicpc.net/problem/1107)        | [Java](Java/baekjoon/Problem_1107.java) |
+| 1260 | S2   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | [Java](Java/baekjoon/Problem_1260.java) |
 
 </details>

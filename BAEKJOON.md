@@ -239,5 +239,6 @@ https://solved.ac/
 | 1003 | S3   | [파보나치 수열](https://www.acmicpc.net/problem/1003) | [Java](Java/baekjoon/Problem_1003.java) |
 | 1012 | S2   | [파보나치 수열](https://www.acmicpc.net/problem/1012) | [Java](Java/baekjoon/Problem_1012.java) |
 | 1074 | S1   | [Z](https://www.acmicpc.net/problem/1074)             | [Java](Java/baekjoon/Problem_1074.java) |
+| 1107 | G5   | [리모컨](https://www.acmicpc.net/problem/1107)        | [Java](Java/baekjoon/Problem_1107.java) |
 
 </details>

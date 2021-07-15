@@ -247,5 +247,6 @@ https://solved.ac/
 | 1697 | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java) |
 | 1764 | S4   | [듣보잡](https://www.acmicpc.net/problem/1764)                      | [Java](Java/baekjoon/Problem_1764.java) |
 | 1927 | S1   | [최소 힙](https://www.acmicpc.net/problem/1927)                     | [Java](Java/baekjoon/Problem_1927.java) |
+| 1931 | S2   | [회의실 배정](https://www.acmicpc.net/problem/1931)                 | [Java](Java/baekjoon/Problem_1931.java) |
 
 </details>

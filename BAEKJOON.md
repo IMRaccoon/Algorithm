@@ -163,11 +163,11 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 07월 4주차 [3문제]</summary>
 
-| 번호  | 티어 | 제목                                                        | 풀이                                    |
-| ----- | ---- | ----------------------------------------------------------- | --------------------------------------- |
-| 1484  | G4   | [다이어트](https://www.acmicpc.net/problem/1484)            | [Java](Java/baekjoon/Problem_1484.java) |
-| 12907 | G5   | [동물원 (미해결)](https://www.acmicpc.net/problem/12907)    |                                         |
-| 17616 | G3   | [등수 찾기 (미해결)](https://www.acmicpc.net/problem/17616) |                                         |
+| 번호  | 티어 | 제목                                                     | 풀이                                     |
+| ----- | ---- | -------------------------------------------------------- | ---------------------------------------- |
+| 1484  | G4   | [다이어트](https://www.acmicpc.net/problem/1484)         | [Java](Java/baekjoon/Problem_1484.java)  |
+| 12907 | G5   | [동물원 (미해결)](https://www.acmicpc.net/problem/12907) |                                          |
+| 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)       | [Java](Java/baekjoon/Problem_17616.java) |
 
 </details>
 

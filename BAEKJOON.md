@@ -255,5 +255,6 @@ https://solved.ac/
 | 1931 | S2   | [회의실 배정](https://www.acmicpc.net/problem/1931)                 | [Java](Java/baekjoon/Problem_1931.java) |
 | 2606 | S3   | [바이러스](https://www.acmicpc.net/problem/2606)                    | [Java](Java/baekjoon/Problem_2606.java) |
 | 2630 | S3   | [색종이 만들기](https://www.acmicpc.net/problem/2630)               | [Java](Java/baekjoon/Problem_2630.java) |
+| 7662 | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java) |
 
 </details>

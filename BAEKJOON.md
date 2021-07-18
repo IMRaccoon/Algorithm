@@ -124,12 +124,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 05월 3주차 [4문제]</summary>
 
-| 번호  | 티어 | 제목                                                    | 풀이                                     |
-| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
-| 1647  | G4   | [도시 분할 계획](https://www.acmicpc.net/problem/1647)  | [Java](Java/baekjoon/Problem_1647.java)  |
-| 11403 | S1   | [경로찾기](https://www.acmicpc.net/problem/11403)       | [Java](Java/baekjoon/Problem_11403.java) |
-| 11725 | S2   | [트리의 부모 찾](https://www.acmicpc.net/problem/11725) | [Java](Java/baekjoon/Problem_11725.java) |
-| 15663 | S2   | [N과 M (9)](https://www.acmicpc.net/problem/15663)      | [Java](Java/baekjoon/Problem_15663.java) |
+| 번호  | 티어 | 제목                                                      | 풀이                                     |
+| ----- | ---- | --------------------------------------------------------- | ---------------------------------------- |
+| 1647  | G4   | [도시 분할 계획](https://www.acmicpc.net/problem/1647)    | [Java](Java/baekjoon/Problem_1647.java)  |
+| 11403 | S1   | [경로찾기](https://www.acmicpc.net/problem/11403)         | [Java](Java/baekjoon/Problem_11403.java) |
+| 11725 | S2   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [Java](Java/baekjoon/Problem_11725.java) |
+| 15663 | S2   | [N과 M (9)](https://www.acmicpc.net/problem/15663)        | [Java](Java/baekjoon/Problem_15663.java) |
 
 </details>
 
@@ -259,5 +259,6 @@ https://solved.ac/
 | 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |
 | 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |
+| 11726 | S3   | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | [Java](Java/baekjoon/Problem_11726.java) |
 
 </details>

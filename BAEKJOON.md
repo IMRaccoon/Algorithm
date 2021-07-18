@@ -170,7 +170,7 @@ https://www.acmicpc.net/
 | 5529  | G1   | [저택 (미해결)](https://www.acmicpc.net/problem/5529)           |                                          |
 | 12744 | G3   | [팬케이스 쌓기 (미해결)](https://www.acmicpc.net/problem/12744) |                                          |
 | 12907 | G5   | [동물원](https://www.acmicpc.net/problem/12907)                 | [Java](Java/baekjoon/Problem_12907.java) |
-| 14267 | G5   | [회사 문화 1 (미해결)](https://www.acmicpc.net/problem/14267)   |                                          |
+| 14267 | G5   | [회사 문화 1](https://www.acmicpc.net/problem/14267)            | [Java](Java/baekjoon/Problem_14267.java) |
 | 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)              | [Java](Java/baekjoon/Problem_17616.java) |
 | 19542 | G4   | [전단지 돌리기 (미해결)](https://www.acmicpc.net/problem/19542) |                                          |
 

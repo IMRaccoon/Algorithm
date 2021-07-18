@@ -258,5 +258,6 @@ https://solved.ac/
 | 7662  | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java)  |
 | 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |
+| 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |
 
 </details>

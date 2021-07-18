@@ -239,22 +239,23 @@ https://solved.ac/
 <details>
 <summary>Class 3</summary>
 
-| 번호 | 티어 | 제목                                                                | 풀이                                    |
-| ---- | ---- | ------------------------------------------------------------------- | --------------------------------------- |
-| 1003 | S3   | [파보나치 수열](https://www.acmicpc.net/problem/1003)               | [Java](Java/baekjoon/Problem_1003.java) |
-| 1012 | S2   | [파보나치 수열](https://www.acmicpc.net/problem/1012)               | [Java](Java/baekjoon/Problem_1012.java) |
-| 1074 | S1   | [Z](https://www.acmicpc.net/problem/1074)                           | [Java](Java/baekjoon/Problem_1074.java) |
-| 1107 | G5   | [리모컨](https://www.acmicpc.net/problem/1107)                      | [Java](Java/baekjoon/Problem_1107.java) |
-| 1260 | S2   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)                   | [Java](Java/baekjoon/Problem_1260.java) |
-| 1541 | S2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | [Java](Java/baekjoon/Problem_1541.java) |
-| 1620 | S4   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [Java](Java/baekjoon/Problem_1620.java) |
-| 1676 | S4   | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [Java](Java/baekjoon/Problem_1676.java) |
-| 1697 | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java) |
-| 1764 | S4   | [듣보잡](https://www.acmicpc.net/problem/1764)                      | [Java](Java/baekjoon/Problem_1764.java) |
-| 1927 | S1   | [최소 힙](https://www.acmicpc.net/problem/1927)                     | [Java](Java/baekjoon/Problem_1927.java) |
-| 1931 | S2   | [회의실 배정](https://www.acmicpc.net/problem/1931)                 | [Java](Java/baekjoon/Problem_1931.java) |
-| 2606 | S3   | [바이러스](https://www.acmicpc.net/problem/2606)                    | [Java](Java/baekjoon/Problem_2606.java) |
-| 2630 | S3   | [색종이 만들기](https://www.acmicpc.net/problem/2630)               | [Java](Java/baekjoon/Problem_2630.java) |
-| 7662 | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java) |
+| 번호  | 티어 | 제목                                                                | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------------------- | ---------------------------------------- |
+| 1003  | S3   | [파보나치 수열](https://www.acmicpc.net/problem/1003)               | [Java](Java/baekjoon/Problem_1003.java)  |
+| 1012  | S2   | [파보나치 수열](https://www.acmicpc.net/problem/1012)               | [Java](Java/baekjoon/Problem_1012.java)  |
+| 1074  | S1   | [Z](https://www.acmicpc.net/problem/1074)                           | [Java](Java/baekjoon/Problem_1074.java)  |
+| 1107  | G5   | [리모컨](https://www.acmicpc.net/problem/1107)                      | [Java](Java/baekjoon/Problem_1107.java)  |
+| 1260  | S2   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)                   | [Java](Java/baekjoon/Problem_1260.java)  |
+| 1541  | S2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | [Java](Java/baekjoon/Problem_1541.java)  |
+| 1620  | S4   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [Java](Java/baekjoon/Problem_1620.java)  |
+| 1676  | S4   | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [Java](Java/baekjoon/Problem_1676.java)  |
+| 1697  | S1   | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [Java](Java/baekjoon/Problem_1697.java)  |
+| 1764  | S4   | [듣보잡](https://www.acmicpc.net/problem/1764)                      | [Java](Java/baekjoon/Problem_1764.java)  |
+| 1927  | S1   | [최소 힙](https://www.acmicpc.net/problem/1927)                     | [Java](Java/baekjoon/Problem_1927.java)  |
+| 1931  | S2   | [회의실 배정](https://www.acmicpc.net/problem/1931)                 | [Java](Java/baekjoon/Problem_1931.java)  |
+| 2606  | S3   | [바이러스](https://www.acmicpc.net/problem/2606)                    | [Java](Java/baekjoon/Problem_2606.java)  |
+| 2630  | S3   | [색종이 만들기](https://www.acmicpc.net/problem/2630)               | [Java](Java/baekjoon/Problem_2630.java)  |
+| 7662  | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java)  |
+| 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
 
 </details>

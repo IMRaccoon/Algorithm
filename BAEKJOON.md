@@ -163,25 +163,29 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 07월 4주차 [9문제]</summary>
 
-| 번호  | 티어 | 제목                                                            | 풀이                                     |
-| ----- | ---- | --------------------------------------------------------------- | ---------------------------------------- |
-| 1300  | G3   | [K번째 수](https://www.acmicpc.net/problem/1300)                | [Java](Java/baekjoon/Problem_1300.java)  |
-| 1484  | G4   | [다이어트](https://www.acmicpc.net/problem/1484)                | [Java](Java/baekjoon/Problem_1484.java)  |
-| 2437  | G3   | [저울](https://www.acmicpc.net/problem/2437)                    | [Java](Java/baekjoon/Problem_2437.java)  |
-| 5529  | P5   | [저택 (미해결)](https://www.acmicpc.net/problem/5529)           |                                          |
-| 12744 | G3   | [팬케이스 쌓기](https://www.acmicpc.net/problem/12744)          | [Java](Java/baekjoon/Problem_12744.java) |
-| 12907 | G5   | [동물원](https://www.acmicpc.net/problem/12907)                 | [Java](Java/baekjoon/Problem_12907.java) |
-| 14267 | G5   | [회사 문화 1](https://www.acmicpc.net/problem/14267)            | [Java](Java/baekjoon/Problem_14267.java) |
-| 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)              | [Java](Java/baekjoon/Problem_17616.java) |
-| 19542 | G4   | [전단지 돌리기 (미해결)](https://www.acmicpc.net/problem/19542) |                                          |
+| 번호  | 티어 | 제목                                                   | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------ | ---------------------------------------- |
+| 1300  | G3   | [K번째 수](https://www.acmicpc.net/problem/1300)       | [Java](Java/baekjoon/Problem_1300.java)  |
+| 1484  | G4   | [다이어트](https://www.acmicpc.net/problem/1484)       | [Java](Java/baekjoon/Problem_1484.java)  |
+| 2437  | G3   | [저울](https://www.acmicpc.net/problem/2437)           | [Java](Java/baekjoon/Problem_2437.java)  |
+| 5529  | P5   | [저택 (미해결)](https://www.acmicpc.net/problem/5529)  |                                          |
+| 12744 | G3   | [팬케이스 쌓기](https://www.acmicpc.net/problem/12744) | [Java](Java/baekjoon/Problem_12744.java) |
+| 12907 | G5   | [동물원](https://www.acmicpc.net/problem/12907)        | [Java](Java/baekjoon/Problem_12907.java) |
+| 14267 | G5   | [회사 문화 1](https://www.acmicpc.net/problem/14267)   | [Java](Java/baekjoon/Problem_14267.java) |
+| 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)     | [Java](Java/baekjoon/Problem_17616.java) |
+| 19542 | G4   | [전단지 돌리기](https://www.acmicpc.net/problem/19542) | [Java](Java/baekjoon/Problem_19542.java) |
 
 </details>
 
 <details>
 <summary>2021년 07월 5주차 [10문제]</summary>
 
-| 번호 | 티어 | 제목 | 풀이 |
-| ---- | ---- | ---- | ---- |
+| 번호  | 티어 | 제목                                                           | 풀이 |
+| ----- | ---- | -------------------------------------------------------------- | ---- |
+| 5052  | G4   | [전화번호 목록 (미해결)](https://www.acmicpc.net/problem/5052) |      |
+| 9997  | G2   | [폰트 (미해결)](https://www.acmicpc.net/problem/9997)          |      |
+| 10564 | G2   | [팔굽혀펴기 (미해결)](https://www.acmicpc.net/problem/10564)   |      |
+| 12904 | G5   | [A와 B (미해결)](https://www.acmicpc.net/problem/12904)        |      |
 
 </details>
 

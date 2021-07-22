@@ -180,12 +180,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 07월 5주차 [10문제]</summary>
 
-| 번호  | 티어 | 제목                                                           | 풀이                                     |
-| ----- | ---- | -------------------------------------------------------------- | ---------------------------------------- | --- |
-| 5052  | G4   | [전화번호 목록 (미해결)](https://www.acmicpc.net/problem/5052) |                                          |
-| 9997  | G2   | [폰트 (미해결)](https://www.acmicpc.net/problem/9997)          |                                          |
-| 10564 | G2   | [팔굽혀펴기 (미해결)](https://www.acmicpc.net/problem/10564)   |                                          |
-| 12904 | G5   | [A와 B](https://www.acmicpc.net/problem/12904)                 | [Java](Java/baekjoon/Problem_12904.java) |     |
+| 번호  | 티어 | 제목                                                         | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------------ | ---------------------------------------- |
+| 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052)        | [Java](Java/baekjoon/Problem_5052.java)  |
+| 9997  | G2   | [폰트 (미해결)](https://www.acmicpc.net/problem/9997)        |                                          |
+| 10564 | G2   | [팔굽혀펴기 (미해결)](https://www.acmicpc.net/problem/10564) |                                          |
+| 12904 | G5   | [A와 B](https://www.acmicpc.net/problem/12904)               | [Java](Java/baekjoon/Problem_12904.java) |
 
 </details>
 

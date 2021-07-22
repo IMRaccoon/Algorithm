@@ -183,7 +183,7 @@ https://www.acmicpc.net/
 | 번호  | 티어 | 제목                                                  | 풀이                                     |
 | ----- | ---- | ----------------------------------------------------- | ---------------------------------------- |
 | 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [Java](Java/baekjoon/Problem_5052.java)  |
-| 9997  | G2   | [폰트 (미해결)](https://www.acmicpc.net/problem/9997) |                                          |
+| 9997  | G2   | [폰트](https://www.acmicpc.net/problem/9997)          | [Java](Java/baekjoon/Problem_9997.java)  |
 | 10564 | G2   | [팔굽혀펴기](https://www.acmicpc.net/problem/10564)   | [Java](Java/baekjoon/Problem_10564.java) |
 | 12904 | G5   | [A와 B](https://www.acmicpc.net/problem/12904)        | [Java](Java/baekjoon/Problem_12904.java) |
 

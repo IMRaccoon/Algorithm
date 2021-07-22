@@ -272,6 +272,7 @@ https://solved.ac/
 | 2606  | S3   | [바이러스](https://www.acmicpc.net/problem/2606)                    | [Java](Java/baekjoon/Problem_2606.java)  |
 | 2630  | S3   | [색종이 만들기](https://www.acmicpc.net/problem/2630)               | [Java](Java/baekjoon/Problem_2630.java)  |
 | 2667  | S1   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)              | [Java](Java/baekjoon/Problem_2667.java)  |
+| 5430  | G5   | [AC](https://www.acmicpc.net/problem/5430)                          | [Java](Java/baekjoon/Problem_5430.java)  |
 | 7662  | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java)  |
 | 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |

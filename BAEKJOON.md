@@ -151,7 +151,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                                  | 풀이                                     |
 | ----- | ---- | --------------------------------------------------------------------- | ---------------------------------------- |
-| 1865  | G4   | [웜홀 (미해결)](https://www.acmicpc.net/problem/1865)                 |
+| 1865  | G4   | [웜홀](https://www.acmicpc.net/problem/1865)                          | [Java](Java/baekjoon/Problem_1865.java)  |
 | 2098  | G1   | [외판원 순회](https://www.acmicpc.net/problem/2098)                   | [Java](Java/baekjoon/Problem_2098.java)  |
 | 9466  | G4   | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                   | [Java](Java/baekjoon/Problem_9466.java)  |
 | 12738 | G2   | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | [Java](Java/baekjoon/Problem_12738.java) |

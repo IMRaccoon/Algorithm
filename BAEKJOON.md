@@ -286,6 +286,7 @@ https://solved.ac/
 | 10026 | G5   | [적록색약](https://www.acmicpc.net/problem/10026)                   | [Java](Java/baekjoon/Problem_10026.java) |
 | 11047 | S2   | [동전 0](https://www.acmicpc.net/problem/11047)                     | [Java](Java/baekjoon/Problem_11047.java) |
 | 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
+| 11286 | S1   | [절대값 힙](https://www.acmicpc.net/problem/11286)                  | [Java](Java/baekjoon/Problem_11286.java) |
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |
 | 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |
 | 11726 | S3   | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | [Java](Java/baekjoon/Problem_11726.java) |

@@ -282,6 +282,7 @@ https://solved.ac/
 | 7569  | S1   | [토마토](https://www.acmicpc.net/problem/7569)                      | [Java](Java/baekjoon/Problem_7569.java)  |
 | 7662  | G5   | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | [Java](Java/baekjoon/Problem_7662.java)  |
 | 9019  | G5   | [DSLR](https://www.acmicpc.net/problem/9019)                        | [Java](Java/baekjoon/Problem_9019.java)  |
+| 9375  | S3   | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               | [Java](Java/baekjoon/Problem_9375.java)  |
 | 11279 | S2   | [최대 힙](https://www.acmicpc.net/problem/11279)                    | [Java](Java/baekjoon/Problem_11279.java) |
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |
 | 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |

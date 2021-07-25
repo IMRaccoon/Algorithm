@@ -294,6 +294,7 @@ https://solved.ac/
 | 14500 | G5   | [테트로미노](https://www.acmicpc.net/problem/14500)                 | [Java](Java/baekjoon/Problem_14500.java) |
 | 16928 | S1   | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)           | [Java](Java/baekjoon/Problem_16928.java) |
 | 17219 | S4   | [비밀번호 찾기](https://www.acmicpc.net/problem/17219)              | [Java](Java/baekjoon/Problem_17219.java) |
+| 17626 | S5   | [Four Squares](https://www.acmicpc.net/problem/17626)               | [Java](Java/baekjoon/Problem_17626.java) |
 | 18870 | S2   | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | [Java](Java/baekjoon/Problem_18870.java) |
 
 </details>

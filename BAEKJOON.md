@@ -291,6 +291,7 @@ https://solved.ac/
 | 11723 | S5   | [집합](https://www.acmicpc.net/problem/11723)                       | [Java](Java/baekjoon/Problem_11723.java) |
 | 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |
 | 11726 | S3   | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | [Java](Java/baekjoon/Problem_11726.java) |
+| 14500 | G5   | [테트로미노](https://www.acmicpc.net/problem/14500)                 | [Java](Java/baekjoon/Problem_14500.java) |
 | 18870 | S2   | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | [Java](Java/baekjoon/Problem_18870.java) |
 
 </details>

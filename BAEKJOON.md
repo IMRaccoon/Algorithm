@@ -306,5 +306,6 @@ https://solved.ac/
 | 번호 | 티어 | 제목                                                | 풀이                                    |
 | ---- | ---- | --------------------------------------------------- | --------------------------------------- |
 | 1167 | G3   | [트리의 지름](https://www.acmicpc.net/problem/1167) | [Java](Java/baekjoon/Problem_1167.java) |
+| 1629 | S1   | [곱셈](https://www.acmicpc.net/problem/1629)        | [Java](Java/baekjoon/Problem_1629.java) |
 
 </details>

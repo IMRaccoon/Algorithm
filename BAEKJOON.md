@@ -182,8 +182,8 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                  | 풀이                                     |
 | ----- | ---- | ----------------------------------------------------- | ---------------------------------------- |
-| 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)       | [Java](Java/baekjoon/Problem_1685.java)  |
-| 1103  | G2   | [게임 (미해결)](https://www.acmicpc.net/problem/1103) |                                          |
+| 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)       | [Java](Java/baekjoon/Problem_1082.java)  |
+| 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)          | [Java](Java/baekjoon/Problem_1103.java)  |
 | 1685  | G3   | [숫자놀이](https://www.acmicpc.net/problem/1685)      | [Java](Java/baekjoon/Problem_1685.java)  |
 | 2550  | G4   | [전구 (미해결)](https://www.acmicpc.net/problem/2550) |                                          |
 | 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [Java](Java/baekjoon/Problem_5052.java)  |

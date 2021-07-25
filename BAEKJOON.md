@@ -299,3 +299,12 @@ https://solved.ac/
 | 18870 | S2   | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | [Java](Java/baekjoon/Problem_18870.java) |
 
 </details>
+
+<details>
+<summary>Class 3</summary>
+
+| 번호 | 티어 | 제목                                                | 풀이                                    |
+| ---- | ---- | --------------------------------------------------- | --------------------------------------- |
+| 1167 | G3   | [트리의 지름](https://www.acmicpc.net/problem/1167) | [Java](Java/baekjoon/Problem_1167.java) |
+
+</details>

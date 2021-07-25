@@ -292,6 +292,7 @@ https://solved.ac/
 | 11724 | S2   | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)           | [Java](Java/baekjoon/Problem_11724.java) |
 | 11726 | S3   | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | [Java](Java/baekjoon/Problem_11726.java) |
 | 14500 | G5   | [테트로미노](https://www.acmicpc.net/problem/14500)                 | [Java](Java/baekjoon/Problem_14500.java) |
+| 16236 | G4   | [아기 상어](https://www.acmicpc.net/problem/16236)                  | [Java](Java/baekjoon/Problem_16236.java) |
 | 16928 | S1   | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)           | [Java](Java/baekjoon/Problem_16928.java) |
 | 17219 | S4   | [비밀번호 찾기](https://www.acmicpc.net/problem/17219)              | [Java](Java/baekjoon/Problem_17219.java) |
 | 17626 | S5   | [Four Squares](https://www.acmicpc.net/problem/17626)               | [Java](Java/baekjoon/Problem_17626.java) |

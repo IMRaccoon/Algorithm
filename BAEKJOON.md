@@ -320,5 +320,6 @@ https://solved.ac/
 | 번호  | 티어 | 제목                                                                | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------------------- | ---------------------------------------- |
 | 11053 | S2   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [Java](Java/baekjoon/Problem_11053.java) |
+| 11055 | S2   | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)     | [Java](Java/baekjoon/Problem_11055.java) |
 
 </details>

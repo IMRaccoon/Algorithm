@@ -313,3 +313,12 @@ https://solved.ac/
 | 1967 | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967) |                                         |
 
 </details>
+
+<details>
+<summary>기타</summary>
+
+| 번호  | 티어 | 제목                                                                | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------------------- | ---------------------------------------- |
+| 11053 | S2   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [Java](Java/baekjoon/Problem_11053.java) |
+
+</details>

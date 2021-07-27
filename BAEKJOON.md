@@ -324,5 +324,6 @@ https://solved.ac/
 | 11722 | S2   | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)  | [Java](Java/baekjoon/Problem_11722.java) |
 | 11054 | G3   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)  | [Java](Java/baekjoon/Problem_11054.java) |
 | 12015 | G2   | [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015) | [Java](Java/baekjoon/Problem_12015.java) |
+| 14002 | G4   | [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) | [Java](Java/baekjoon/Problem_14002.java) |
 
 </details>

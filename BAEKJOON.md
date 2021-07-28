@@ -178,14 +178,14 @@ https://www.acmicpc.net/
 </details>
 
 <details>
-<summary>2021년 07월 5주차 [10문제]</summary>
+<summary>2021년 07월 5주차 [9문제]</summary>
 
 | 번호  | 티어 | 제목                                                  | 풀이                                     |
 | ----- | ---- | ----------------------------------------------------- | ---------------------------------------- |
 | 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)       | [Java](Java/baekjoon/Problem_1082.java)  |
 | 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)          | [Java](Java/baekjoon/Problem_1103.java)  |
 | 1685  | G3   | [숫자놀이](https://www.acmicpc.net/problem/1685)      | [Java](Java/baekjoon/Problem_1685.java)  |
-| 2550  | G4   | [전구 (미해결)](https://www.acmicpc.net/problem/2550) |                                          |
+| 2550  | G4   | [전구](https://www.acmicpc.net/problem/2550)          | [Java](Java/baekjoon/Problem_2550.java)  |
 | 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [Java](Java/baekjoon/Problem_5052.java)  |
 | 9997  | G2   | [폰트](https://www.acmicpc.net/problem/9997)          | [Java](Java/baekjoon/Problem_9997.java)  |
 | 10564 | G2   | [팔굽혀펴기](https://www.acmicpc.net/problem/10564)   | [Java](Java/baekjoon/Problem_10564.java) |

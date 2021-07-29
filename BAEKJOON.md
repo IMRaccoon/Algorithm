@@ -313,7 +313,7 @@ https://solved.ac/
 </details>
 
 <details>
-<summary>Class 3</summary>
+<summary>Class 4</summary>
 
 | 번호 | 티어 | 제목                                                | 풀이                                    |
 | ---- | ---- | --------------------------------------------------- | --------------------------------------- |
@@ -323,6 +323,7 @@ https://solved.ac/
 | 1918 | G4   | [후위 표기식](https://www.acmicpc.net/problem/1918) |                                         |
 | 1932 | S1   | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [Java](Java/baekjoon/Problem_1932.java) |
 | 1967 | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967) | [Java](Java/baekjoon/Problem_1967.java) |
+| 2096 | G4   | [내려가기](https://www.acmicpc.net/problem/2096)    | [Java](Java/baekjoon/Problem_2096.java) |
 
 </details>
 

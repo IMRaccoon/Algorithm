@@ -197,12 +197,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 1주차 [5문제]</summary>
 
-| 번호  | 티어 | 제목                                                        | 풀이                                     |
-| ----- | ---- | ----------------------------------------------------------- | ---------------------------------------- |
-| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)           | [Java](Java/baekjoon/Problem_2038.java)  |
-| 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)     | [Java](Java/baekjoon/Problem_11049.java) |
-| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)          | [Java](Java/baekjoon/Problem_15961.java) |
-| 16118 | G1   | [달빛 여우 (미해결)](https://www.acmicpc.net/problem/16118) |                                          |
+| 번호  | 티어 | 제목                                                    | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
+| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)       | [Java](Java/baekjoon/Problem_2038.java)  |
+| 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [Java](Java/baekjoon/Problem_11049.java) |
+| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)      | [Java](Java/baekjoon/Problem_15961.java) |
+| 16118 | G1   | [달빛 여우](https://www.acmicpc.net/problem/16118)      | [Java](Java/baekjoon/Problem_16118.java) |
 
 </details>
 
@@ -320,7 +320,7 @@ https://solved.ac/
 | 1167 | G3   | [트리의 지름](https://www.acmicpc.net/problem/1167) | [Java](Java/baekjoon/Problem_1167.java) |
 | 1238 | G3   | [파티](https://www.acmicpc.net/problem/1238)        | [Java](Java/baekjoon/Problem_1238.java) |
 | 1629 | S1   | [곱셈](https://www.acmicpc.net/problem/1629)        | [Java](Java/baekjoon/Problem_1629.java) |
-| 1928 | G4   | [후위 표기식](https://www.acmicpc.net/problem/1928) |                                         |
+| 1918 | G4   | [후위 표기식](https://www.acmicpc.net/problem/1918) |                                         |
 | 1932 | S1   | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [Java](Java/baekjoon/Problem_1932.java) |
 | 1967 | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967) |                                         |
 

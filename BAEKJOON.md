@@ -197,12 +197,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 1주차 [5문제]</summary>
 
-| 번호  | 티어 | 제목                                                             | 풀이                                     |
-| ----- | ---- | ---------------------------------------------------------------- | ---------------------------------------- |
-| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)                | [Java](Java/baekjoon/Problem_2038.java)  |
-| 11049 | G3   | [행렬 곱셈 순서 (미해결)](https://www.acmicpc.net/problem/11049) |                                          |
-| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)               | [Java](Java/baekjoon/Problem_15961.java) |
-| 16118 | G1   | [달빛 여우 (미해결)](https://www.acmicpc.net/problem/16118)      |                                          |
+| 번호  | 티어 | 제목                                                        | 풀이                                     |
+| ----- | ---- | ----------------------------------------------------------- | ---------------------------------------- |
+| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)           | [Java](Java/baekjoon/Problem_2038.java)  |
+| 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)     | [Java](Java/baekjoon/Problem_11049.java) |
+| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)          | [Java](Java/baekjoon/Problem_15961.java) |
+| 16118 | G1   | [달빛 여우 (미해결)](https://www.acmicpc.net/problem/16118) |                                          |
 
 </details>
 

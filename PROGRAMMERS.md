@@ -39,6 +39,7 @@ n진수 게임
 
 신규 아이디 추천 [Java](Java/programmers/Kakao_2021/Recommend_New_ID.java)
 메뉴 리뉴얼 [Java](Java/programmers/Kakao_2021/Menu_Renewal.java)
+순위 검색 [Java](Java/programmers/Kakao_2021/Search_Rank.java)
 
 ### 해시
 

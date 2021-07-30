@@ -327,6 +327,7 @@ https://solved.ac/
 | 2206 | G4   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [Java](Java/baekjoon/Problem_2206.java) |
 | 2407 | S2   | [조합](https://www.acmicpc.net/problem/2407)               | [Java](Java/baekjoon/Problem_2407.java) |
 | 9251 | G5   | [LCS](https://www.acmicpc.net/problem/9251)                | [Java](Java/baekjoon/Problem_9251.java) |
+| 9465 | S2   | [스티커](https://www.acmicpc.net/problem/9465)             | [Java](Java/baekjoon/Problem_9465.java) |
 
 </details>
 

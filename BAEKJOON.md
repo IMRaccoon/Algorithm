@@ -325,6 +325,7 @@ https://solved.ac/
 | 1967 | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967)        | [Java](Java/baekjoon/Problem_1967.java) |
 | 2096 | G4   | [내려가기](https://www.acmicpc.net/problem/2096)           | [Java](Java/baekjoon/Problem_2096.java) |
 | 2206 | G4   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [Java](Java/baekjoon/Problem_2206.java) |
+| 2407 | S2   | [조합](https://www.acmicpc.net/problem/2407)               | [Java](Java/baekjoon/Problem_2407.java) |
 
 </details>
 

@@ -315,19 +315,20 @@ https://solved.ac/
 <details>
 <summary>Class 4</summary>
 
-| 번호 | 티어 | 제목                                                       | 풀이                                    |
-| ---- | ---- | ---------------------------------------------------------- | --------------------------------------- |
-| 1167 | G3   | [트리의 지름](https://www.acmicpc.net/problem/1167)        | [Java](Java/baekjoon/Problem_1167.java) |
-| 1238 | G3   | [파티](https://www.acmicpc.net/problem/1238)               | [Java](Java/baekjoon/Problem_1238.java) |
-| 1629 | S1   | [곱셈](https://www.acmicpc.net/problem/1629)               | [Java](Java/baekjoon/Problem_1629.java) |
-| 1918 | G4   | [후위 표기식](https://www.acmicpc.net/problem/1918)        | [Java](Java/baekjoon/Problem_1918.java) |
-| 1932 | S1   | [정수 삼각형](https://www.acmicpc.net/problem/1932)        | [Java](Java/baekjoon/Problem_1932.java) |
-| 1967 | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967)        | [Java](Java/baekjoon/Problem_1967.java) |
-| 2096 | G4   | [내려가기](https://www.acmicpc.net/problem/2096)           | [Java](Java/baekjoon/Problem_2096.java) |
-| 2206 | G4   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [Java](Java/baekjoon/Problem_2206.java) |
-| 2407 | S2   | [조합](https://www.acmicpc.net/problem/2407)               | [Java](Java/baekjoon/Problem_2407.java) |
-| 9251 | G5   | [LCS](https://www.acmicpc.net/problem/9251)                | [Java](Java/baekjoon/Problem_9251.java) |
-| 9465 | S2   | [스티커](https://www.acmicpc.net/problem/9465)             | [Java](Java/baekjoon/Problem_9465.java) |
+| 번호  | 티어 | 제목                                                       | 풀이                                     |
+| ----- | ---- | ---------------------------------------------------------- | ---------------------------------------- |
+| 1167  | G3   | [트리의 지름](https://www.acmicpc.net/problem/1167)        | [Java](Java/baekjoon/Problem_1167.java)  |
+| 1238  | G3   | [파티](https://www.acmicpc.net/problem/1238)               | [Java](Java/baekjoon/Problem_1238.java)  |
+| 1629  | S1   | [곱셈](https://www.acmicpc.net/problem/1629)               | [Java](Java/baekjoon/Problem_1629.java)  |
+| 1918  | G4   | [후위 표기식](https://www.acmicpc.net/problem/1918)        | [Java](Java/baekjoon/Problem_1918.java)  |
+| 1932  | S1   | [정수 삼각형](https://www.acmicpc.net/problem/1932)        | [Java](Java/baekjoon/Problem_1932.java)  |
+| 1967  | G4   | [트리의 지름](https://www.acmicpc.net/problem/1967)        | [Java](Java/baekjoon/Problem_1967.java)  |
+| 2096  | G4   | [내려가기](https://www.acmicpc.net/problem/2096)           | [Java](Java/baekjoon/Problem_2096.java)  |
+| 2206  | G4   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [Java](Java/baekjoon/Problem_2206.java)  |
+| 2407  | S2   | [조합](https://www.acmicpc.net/problem/2407)               | [Java](Java/baekjoon/Problem_2407.java)  |
+| 9251  | G5   | [LCS](https://www.acmicpc.net/problem/9251)                | [Java](Java/baekjoon/Problem_9251.java)  |
+| 9465  | S2   | [스티커](https://www.acmicpc.net/problem/9465)             | [Java](Java/baekjoon/Problem_9465.java)  |
+| 11404 | G4   | [플로이드](https://www.acmicpc.net/problem/11404)          | [Java](Java/baekjoon/Problem_11404.java) |
 
 </details>
 

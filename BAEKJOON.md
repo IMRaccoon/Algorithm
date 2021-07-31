@@ -364,5 +364,6 @@ https://solved.ac/
 | 10830 | G4   | [행렬 제곱](https://www.acmicpc.net/problem/10830)                   | [Java](Java/baekjoon/Problem_10830.java) |
 | 2747  | B3   | [피보나치 수](https://www.acmicpc.net/problem/2747)                  | [Java](Java/baekjoon/Problem_2747.java)  |
 | 2748  | B1   | [피보나치 수 2](https://www.acmicpc.net/problem/2748)                | [Java](Java/baekjoon/Problem_2748.java)  |
+| 2749  | G3   | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                | [Java](Java/baekjoon/Problem_2749.java)  |
 
 </details>

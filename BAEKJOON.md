@@ -347,7 +347,7 @@ https://solved.ac/
 | 11444 | G3   | [피보나치 수 6](https://www.acmicpc.net/problem/11444)     | [Java](Java/baekjoon/Problem_11444.java) |
 | 11660 | S1   | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  | [Java](Java/baekjoon/Problem_11660.java) |
 | 12865 | G5   | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [Java](Java/baekjoon/Problem_12865.java) |
-| 13549 | G3   | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [Java](Java/baekjoon/Problem_13549.java) |
+| 13549 | G5   | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [Java](Java/baekjoon/Problem_13549.java) |
 
 </details>
 
@@ -370,5 +370,6 @@ https://solved.ac/
 | 2749  | G3   | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                | [Java](Java/baekjoon/Problem_2749.java)  |
 | 10826 | S4   | [피보나치 수 4](https://www.acmicpc.net/problem/10826)               | [Java](Java/baekjoon/Problem_10826.java) |
 | 10870 | B2   | [피보나치 수 5](https://www.acmicpc.net/problem/10870)               | [Java](Java/baekjoon/Problem_10870.java) |
+| 12851 | G5   | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)                  | [Java](Java/baekjoon/Problem_12851.java) |
 
 </details>

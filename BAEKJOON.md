@@ -197,7 +197,7 @@ https://www.acmicpc.net/
 | ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
 | 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)         | [Java](Java/baekjoon/Problem_1082.java)  |
 | 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)            | [Java](Java/baekjoon/Problem_1103.java)  |
-| 2150  | P5   | [SCC (미해결)](https://www.acmicpc.net/problem/2150)    |                                          |
+| 2150  | P5   | [SCC](https://www.acmicpc.net/problem/2150)             | [Java](Java/baekjoon/Problem_1103.java)  |
 | 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)       | [Java](Java/baekjoon/Problem_2038.java)  |
 | 2550  | G4   | [전구](https://www.acmicpc.net/problem/2550)            | [Java](Java/baekjoon/Problem_2550.java)  |
 | 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [Java](Java/baekjoon/Problem_11049.java) |

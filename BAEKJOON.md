@@ -366,5 +366,6 @@ https://solved.ac/
 | 2748  | B1   | [피보나치 수 2](https://www.acmicpc.net/problem/2748)                | [Java](Java/baekjoon/Problem_2748.java)  |
 | 2749  | G3   | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                | [Java](Java/baekjoon/Problem_2749.java)  |
 | 10826 | S4   | [피보나치 수 4](https://www.acmicpc.net/problem/10826)               | [Java](Java/baekjoon/Problem_10826.java) |
+| 10870 | B2   | [피보나치 수 5](https://www.acmicpc.net/problem/10870)               | [Java](Java/baekjoon/Problem_10870.java) |
 
 </details>

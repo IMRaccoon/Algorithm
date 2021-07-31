@@ -161,18 +161,31 @@ https://www.acmicpc.net/
 </details>
 
 <details>
+<summary>2021년 07월 3주차 [5문제]</summary>
+
+| 번호  | 티어 | 제목                                                 | 풀이                                     |
+| ----- | ---- | ---------------------------------------------------- | ---------------------------------------- |
+| 1300  | G3   | [K번째 수](https://www.acmicpc.net/problem/1300)     | [Java](Java/baekjoon/Problem_1300.java)  |
+| 2437  | G3   | [저울](https://www.acmicpc.net/problem/2437)         | [Java](Java/baekjoon/Problem_2437.java)  |
+| 12907 | G5   | [동물원](https://www.acmicpc.net/problem/12907)      | [Java](Java/baekjoon/Problem_12907.java) |
+| 14267 | G5   | [회사 문화 1](https://www.acmicpc.net/problem/14267) | [Java](Java/baekjoon/Problem_14267.java) |
+| 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)   | [Java](Java/baekjoon/Problem_17616.java) |
+
+</details>
+
+<details>
 <summary>2021년 07월 4주차 [9문제]</summary>
 
 | 번호  | 티어 | 제목                                                   | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------ | ---------------------------------------- |
-| 1300  | G3   | [K번째 수](https://www.acmicpc.net/problem/1300)       | [Java](Java/baekjoon/Problem_1300.java)  |
 | 1484  | G4   | [다이어트](https://www.acmicpc.net/problem/1484)       | [Java](Java/baekjoon/Problem_1484.java)  |
-| 2437  | G3   | [저울](https://www.acmicpc.net/problem/2437)           | [Java](Java/baekjoon/Problem_2437.java)  |
+| 1685  | G3   | [숫자놀이](https://www.acmicpc.net/problem/1685)       | [Java](Java/baekjoon/Problem_1685.java)  |
+| 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052)  | [Java](Java/baekjoon/Problem_5052.java)  |
 | 5529  | P5   | [저택 (미해결)](https://www.acmicpc.net/problem/5529)  |                                          |
+| 9997  | G2   | [폰트](https://www.acmicpc.net/problem/9997)           | [Java](Java/baekjoon/Problem_9997.java)  |
+| 10564 | G2   | [팔굽혀펴기](https://www.acmicpc.net/problem/10564)    | [Java](Java/baekjoon/Problem_10564.java) |
 | 12744 | G3   | [팬케이스 쌓기](https://www.acmicpc.net/problem/12744) | [Java](Java/baekjoon/Problem_12744.java) |
-| 12907 | G5   | [동물원](https://www.acmicpc.net/problem/12907)        | [Java](Java/baekjoon/Problem_12907.java) |
-| 14267 | G5   | [회사 문화 1](https://www.acmicpc.net/problem/14267)   | [Java](Java/baekjoon/Problem_14267.java) |
-| 17616 | G3   | [등수 찾기](https://www.acmicpc.net/problem/17616)     | [Java](Java/baekjoon/Problem_17616.java) |
+| 12904 | G5   | [A와 B](https://www.acmicpc.net/problem/12904)         | [Java](Java/baekjoon/Problem_12904.java) |
 | 19542 | G4   | [전단지 돌리기](https://www.acmicpc.net/problem/19542) | [Java](Java/baekjoon/Problem_19542.java) |
 
 </details>
@@ -180,29 +193,31 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 07월 5주차 [9문제]</summary>
 
-| 번호  | 티어 | 제목                                                  | 풀이                                     |
-| ----- | ---- | ----------------------------------------------------- | ---------------------------------------- |
-| 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)       | [Java](Java/baekjoon/Problem_1082.java)  |
-| 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)          | [Java](Java/baekjoon/Problem_1103.java)  |
-| 1685  | G3   | [숫자놀이](https://www.acmicpc.net/problem/1685)      | [Java](Java/baekjoon/Problem_1685.java)  |
-| 2550  | G4   | [전구](https://www.acmicpc.net/problem/2550)          | [Java](Java/baekjoon/Problem_2550.java)  |
-| 5052  | G4   | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [Java](Java/baekjoon/Problem_5052.java)  |
-| 9997  | G2   | [폰트](https://www.acmicpc.net/problem/9997)          | [Java](Java/baekjoon/Problem_9997.java)  |
-| 10564 | G2   | [팔굽혀펴기](https://www.acmicpc.net/problem/10564)   | [Java](Java/baekjoon/Problem_10564.java) |
-| 12904 | G5   | [A와 B](https://www.acmicpc.net/problem/12904)        | [Java](Java/baekjoon/Problem_12904.java) |
-| 14725 | G2   | [개미굴](https://www.acmicpc.net/problem/14725)       | [Java](Java/baekjoon/Problem_14725.java) |
+| 번호  | 티어 | 제목                                                    | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
+| 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)         | [Java](Java/baekjoon/Problem_1082.java)  |
+| 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)            | [Java](Java/baekjoon/Problem_1103.java)  |
+| 2150  | P5   | [SCC (미해결)](https://www.acmicpc.net/problem/2150)    |                                          |
+| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)       | [Java](Java/baekjoon/Problem_2038.java)  |
+| 2550  | G4   | [전구](https://www.acmicpc.net/problem/2550)            | [Java](Java/baekjoon/Problem_2550.java)  |
+| 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [Java](Java/baekjoon/Problem_11049.java) |
+| 14725 | G2   | [개미굴](https://www.acmicpc.net/problem/14725)         | [Java](Java/baekjoon/Problem_14725.java) |
+| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)      | [Java](Java/baekjoon/Problem_15961.java) |
+| 16118 | G1   | [달빛 여우](https://www.acmicpc.net/problem/16118)      | [Java](Java/baekjoon/Problem_16118.java) |
 
 </details>
 
 <details>
-<summary>2021년 08월 1주차 [5문제]</summary>
+<summary>2021년 08월 1주차 [6문제]</summary>
 
-| 번호  | 티어 | 제목                                                    | 풀이                                     |
-| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
-| 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)       | [Java](Java/baekjoon/Problem_2038.java)  |
-| 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [Java](Java/baekjoon/Problem_11049.java) |
-| 15961 | G4   | [회전 초밥](https://www.acmicpc.net/problem/15961)      | [Java](Java/baekjoon/Problem_15961.java) |
-| 16118 | G1   | [달빛 여우](https://www.acmicpc.net/problem/16118)      | [Java](Java/baekjoon/Problem_16118.java) |
+| 번호  | 티어 | 제목                                                             | 풀이 |
+| ----- | ---- | ---------------------------------------------------------------- | ---- |
+| 1766  | G2   | [문제집 (미해결)](https://www.acmicpc.net/problem/1766)          |      |
+| 2357  | G1   | [최솟값과 최댓값 (미해결)](https://www.acmicpc.net/problem/2357) |      |
+| 2933  | G2   | [미네랄 (미해결)](https://www.acmicpc.net/problem/2933)          |      |
+| 4196  | P4   | [도미노 (미해결)](https://www.acmicpc.net/problem/4196)          |      |
+| 11758 | G5   | [CCW (미해결)](https://www.acmicpc.net/problem/11758)            |      |
+| 18234 | G4   | [당근 훔쳐 먹기 (미해결)](https://www.acmicpc.net/problem/18234) |      |
 
 </details>
 
@@ -345,5 +360,6 @@ https://solved.ac/
 | 14002 | G4   | [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) | [Java](Java/baekjoon/Problem_14002.java) |
 | 14003 | P5   | [가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14003) | [Java](Java/baekjoon/Problem_14003.java) |
 | 2568  | P5   | [전깃줄 - 2](https://www.acmicpc.net/problem/2568)                   | [Java](Java/baekjoon/Problem_2568.java)  |
+| 10830 | G4   | [행렬 제곱](https://www.acmicpc.net/problem/10830)                   | [Java](Java/baekjoon/Problem_10830.java) |
 
 </details>

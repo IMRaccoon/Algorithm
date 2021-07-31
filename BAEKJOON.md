@@ -344,6 +344,7 @@ https://solved.ac/
 | 9251  | G5   | [LCS](https://www.acmicpc.net/problem/9251)                | [Java](Java/baekjoon/Problem_9251.java)  |
 | 9465  | S2   | [스티커](https://www.acmicpc.net/problem/9465)             | [Java](Java/baekjoon/Problem_9465.java)  |
 | 11404 | G4   | [플로이드](https://www.acmicpc.net/problem/11404)          | [Java](Java/baekjoon/Problem_11404.java) |
+| 11444 | G3   | [피보나치 수 6](https://www.acmicpc.net/problem/11444)     | [Java](Java/baekjoon/Problem_11444.java) |
 
 </details>
 

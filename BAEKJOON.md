@@ -362,5 +362,6 @@ https://solved.ac/
 | 14003 | P5   | [가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14003) | [Java](Java/baekjoon/Problem_14003.java) |
 | 2568  | P5   | [전깃줄 - 2](https://www.acmicpc.net/problem/2568)                   | [Java](Java/baekjoon/Problem_2568.java)  |
 | 10830 | G4   | [행렬 제곱](https://www.acmicpc.net/problem/10830)                   | [Java](Java/baekjoon/Problem_10830.java) |
+| 2747  | B3   | [피보나치 수](https://www.acmicpc.net/problem/2747)                  | [Java](Java/baekjoon/Problem_2747.java)  |
 
 </details>

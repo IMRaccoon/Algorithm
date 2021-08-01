@@ -301,6 +301,7 @@ https://solved.ac/
 | 1931  | S2   | [회의실 배정](https://www.acmicpc.net/problem/1931)                 | [Java](Java/baekjoon/Problem_1931.java)  |
 | 1992  | S1   | [쿼드 트리](https://www.acmicpc.net/problem/1992)                   | [Java](Java/baekjoon/Problem_1992.java)  |
 | 2178  | S1   | [미로 탐색](https://www.acmicpc.net/problem/2178)                   | [Java](Java/baekjoon/Problem_2178.java)  |
+| 2263  | S1   | [미로 탐색](https://www.acmicpc.net/problem/2263)                   | [Java](Java/baekjoon/Problem_2263.java)  |
 | 2606  | S3   | [바이러스](https://www.acmicpc.net/problem/2606)                    | [Java](Java/baekjoon/Problem_2606.java)  |
 | 2630  | S3   | [색종이 만들기](https://www.acmicpc.net/problem/2630)               | [Java](Java/baekjoon/Problem_2630.java)  |
 | 2667  | S1   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)              | [Java](Java/baekjoon/Problem_2667.java)  |

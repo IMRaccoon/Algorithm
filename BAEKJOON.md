@@ -212,7 +212,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                    | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
-| 1766  | G2   | [문제집 (미해결)](https://www.acmicpc.net/problem/1766) |                                          |
+| 1766  | G2   | [문제집](https://www.acmicpc.net/problem/1766)          | [Java](Java/baekjoon/Problem_1766.java)  |
 | 2357  | G1   | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [Java](Java/baekjoon/Problem_2357.java)  |
 | 2933  | G2   | [미네랄 (미해결)](https://www.acmicpc.net/problem/2933) |                                          |
 | 4196  | P4   | [도미노 (미해결)](https://www.acmicpc.net/problem/4196) |                                          |

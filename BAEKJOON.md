@@ -352,6 +352,7 @@ https://solved.ac/
 | 11779 | G3   | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [Java](Java/baekjoon/Problem_11779.java) |
 | 12865 | G5   | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [Java](Java/baekjoon/Problem_12865.java) |
 | 13549 | G5   | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [Java](Java/baekjoon/Problem_13549.java) |
+| 14938 | G4   | [서강그라운드](https://www.acmicpc.net/problem/14938)      | [Java](Java/baekjoon/Problem_14938.java) |
 | 15650 | S3   | [N과 M (2)](https://www.acmicpc.net/problem/15650)         | [Java](Java/baekjoon/Problem_15650.java) |
 | 15654 | S3   | [N과 M (5)](https://www.acmicpc.net/problem/15654)         | [Java](Java/baekjoon/Problem_15654.java) |
 

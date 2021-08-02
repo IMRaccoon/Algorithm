@@ -101,7 +101,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                                                       | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 1005  | G3   | [ACM Craft (미해결)](https://www.acmicpc.net/problem/1005)                                 |
+| 1005  | G3   | [ACM Craft](https://www.acmicpc.net/problem/1005)                                          | [Java](Java/baekjoon/Problem_1005.java)  |
 | 1757  | G5   | [달려달려](https://www.acmicpc.net/problem/1757)                                           | [Java](Java/baekjoon/Problem_1757.java)  |
 | 11000 | G5   | [강의실 배정](https://www.acmicpc.net/problem/11000)                                       | [Java](Java/baekjoon/Problem_11000.java) |
 | 11952 | G1   | [좀비](https://www.acmicpc.net/problem/11952)                                              | [Java](Java/baekjoon/Problem_11952.java) |

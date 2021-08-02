@@ -197,7 +197,7 @@ https://www.acmicpc.net/
 | ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
 | 1082  | G4   | [방 번호](https://www.acmicpc.net/problem/1082)         | [Java](Java/baekjoon/Problem_1082.java)  |
 | 1103  | G2   | [게임](https://www.acmicpc.net/problem/1103)            | [Java](Java/baekjoon/Problem_1103.java)  |
-| 2150  | P5   | [SCC](https://www.acmicpc.net/problem/2150)             | [Java](Java/baekjoon/Problem_1103.java)  |
+| 2150  | P5   | [SCC](https://www.acmicpc.net/problem/2150)             | [Java](Java/baekjoon/Problem_2150.java)  |
 | 2038  | G2   | [골롱 수열](https://www.acmicpc.net/problem/2038)       | [Java](Java/baekjoon/Problem_2038.java)  |
 | 2550  | G4   | [전구](https://www.acmicpc.net/problem/2550)            | [Java](Java/baekjoon/Problem_2550.java)  |
 | 11049 | G3   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [Java](Java/baekjoon/Problem_11049.java) |
@@ -342,6 +342,7 @@ https://solved.ac/
 | 2096  | G4   | [내려가기](https://www.acmicpc.net/problem/2096)           | [Java](Java/baekjoon/Problem_2096.java)  |
 | 2206  | G4   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [Java](Java/baekjoon/Problem_2206.java)  |
 | 2407  | S2   | [조합](https://www.acmicpc.net/problem/2407)               | [Java](Java/baekjoon/Problem_2407.java)  |
+| 2638  | G4   | [치즈](https://www.acmicpc.net/problem/2638)               | [Java](Java/baekjoon/Problem_2638.java)  |
 | 9251  | G5   | [LCS](https://www.acmicpc.net/problem/9251)                | [Java](Java/baekjoon/Problem_9251.java)  |
 | 9465  | S2   | [스티커](https://www.acmicpc.net/problem/9465)             | [Java](Java/baekjoon/Problem_9465.java)  |
 | 11404 | G4   | [플로이드](https://www.acmicpc.net/problem/11404)          | [Java](Java/baekjoon/Problem_11404.java) |

@@ -360,6 +360,7 @@ https://solved.ac/
 | 15666 | S2   | [N과 M (12)](https://www.acmicpc.net/problem/15666)        | [Java](Java/baekjoon/Problem_15666.java) |
 | 15686 | G5   | [치킨 배달](https://www.acmicpc.net/problem/15686)         | [Java](Java/baekjoon/Problem_15686.java) |
 | 16953 | S1   | [A → B](https://www.acmicpc.net/problem/16953)             | [Java](Java/baekjoon/Problem_16953.java) |
+| 17144 | G5   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    | [Java](Java/baekjoon/Problem_17144.java) |
 
 </details>
 

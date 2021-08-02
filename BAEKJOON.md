@@ -349,6 +349,7 @@ https://solved.ac/
 | 11404 | G4   | [플로이드](https://www.acmicpc.net/problem/11404)          | [Java](Java/baekjoon/Problem_11404.java) |
 | 11444 | G3   | [피보나치 수 6](https://www.acmicpc.net/problem/11444)     | [Java](Java/baekjoon/Problem_11444.java) |
 | 11660 | S1   | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  | [Java](Java/baekjoon/Problem_11660.java) |
+| 11779 | G3   | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [Java](Java/baekjoon/Problem_11779.java) |
 | 12865 | G5   | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [Java](Java/baekjoon/Problem_12865.java) |
 | 13549 | G5   | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [Java](Java/baekjoon/Problem_13549.java) |
 | 15650 | S3   | [N과 M (2)](https://www.acmicpc.net/problem/15650)         | [Java](Java/baekjoon/Problem_15650.java) |

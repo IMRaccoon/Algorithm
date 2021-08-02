@@ -357,6 +357,7 @@ https://solved.ac/
 | 15652 | S3   | [N과 M (4)](https://www.acmicpc.net/problem/15652)         | [Java](Java/baekjoon/Problem_15652.java) |
 | 15654 | S3   | [N과 M (5)](https://www.acmicpc.net/problem/15654)         | [Java](Java/baekjoon/Problem_15654.java) |
 | 15657 | S3   | [N과 M (8)](https://www.acmicpc.net/problem/15657)         | [Java](Java/baekjoon/Problem_15657.java) |
+| 15666 | S2   | [N과 M (12)](https://www.acmicpc.net/problem/15666)        | [Java](Java/baekjoon/Problem_15666.java) |
 
 </details>
 

@@ -352,6 +352,7 @@ https://solved.ac/
 | 11660 | S1   | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  | [Java](Java/baekjoon/Problem_11660.java) |
 | 11779 | G3   | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [Java](Java/baekjoon/Problem_11779.java) |
 | 12865 | G5   | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [Java](Java/baekjoon/Problem_12865.java) |
+| 13172 | G5   | [Σ](https://www.acmicpc.net/problem/13172)                 | [Java](Java/baekjoon/Problem_13172.java) |
 | 13549 | G5   | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | [Java](Java/baekjoon/Problem_13549.java) |
 | 14502 | G5   | [연구소](https://www.acmicpc.net/problem/14502)            | [Java](Java/baekjoon/Problem_14502.java) |
 | 14938 | G4   | [서강그라운드](https://www.acmicpc.net/problem/14938)      | [Java](Java/baekjoon/Problem_14938.java) |

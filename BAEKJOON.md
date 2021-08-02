@@ -156,7 +156,7 @@ https://www.acmicpc.net/
 | 9466  | G4   | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                   | [Java](Java/baekjoon/Problem_9466.java)  |
 | 12738 | G2   | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | [Java](Java/baekjoon/Problem_12738.java) |
 | 12850 | G1   | [본대 산책 2](https://www.acmicpc.net/problem/12850)                  | [Java](Java/baekjoon/Problem_12850.java) |
-| 17143 | G2   | [낚시왕 (미해결)](https://www.acmicpc.net/problem/17143)              |
+| 17143 | G2   | [낚시왕](https://www.acmicpc.net/problem/17143)                       | [Java](Java/baekjoon/Problem_17143.java) |
 
 </details>
 

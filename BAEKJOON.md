@@ -210,18 +210,18 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 1주차 [6문제]</summary>
 
-| 번호  | 티어 | 제목                                                           | 풀이                                     |
-| ----- | ---- | -------------------------------------------------------------- | ---------------------------------------- |
-| 1219  | G2   | [오민식의 고민](https://www.acmicpc.net/problem/1219)          | [Java](Java/baekjoon/Problem_1219.java)  |
-| 1766  | G2   | [문제집](https://www.acmicpc.net/problem/1766)                 | [Java](Java/baekjoon/Problem_1766.java)  |
-| 2306  | G3   | [유전자](https://www.acmicpc.net/problem/2306)                 | [Java](Java/baekjoon/Problem_2306.java)  |
-| 2357  | G1   | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)        | [Java](Java/baekjoon/Problem_2357.java)  |
-| 2933  | G2   | [미네랄](https://www.acmicpc.net/problem/2933)                 | [Java](Java/baekjoon/Problem_2933.java)  |
-| 4090  | G3   | [뱀파이어 숫자 (미해결)](https://www.acmicpc.net/problem/4090) |                                          |
-| 4196  | P4   | [도미노 (미해결)](https://www.acmicpc.net/problem/4196)        |                                          |
-| 11758 | G5   | [CCW](https://www.acmicpc.net/problem/11758)                   | [Java](Java/baekjoon/Problem_11758.java) |
-| 12969 | G1   | [ABC](https://www.acmicpc.net/problem/12969)                   | [Java](Java/baekjoon/Problem_12969.java) |
-| 18234 | G4   | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234)        | [Java](Java/baekjoon/Problem_18234.java) |
+| 번호  | 티어 | 제목                                                    | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
+| 1219  | G2   | [오민식의 고민](https://www.acmicpc.net/problem/1219)   | [Java](Java/baekjoon/Problem_1219.java)  |
+| 1766  | G2   | [문제집](https://www.acmicpc.net/problem/1766)          | [Java](Java/baekjoon/Problem_1766.java)  |
+| 2306  | G3   | [유전자](https://www.acmicpc.net/problem/2306)          | [Java](Java/baekjoon/Problem_2306.java)  |
+| 2357  | G1   | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | [Java](Java/baekjoon/Problem_2357.java)  |
+| 2933  | G2   | [미네랄](https://www.acmicpc.net/problem/2933)          | [Java](Java/baekjoon/Problem_2933.java)  |
+| 4090  | G3   | [뱀파이어 숫자](https://www.acmicpc.net/problem/4090)   | [Java](Java/baekjoon/Problem_4090.java)  |
+| 4196  | P4   | [도미노 (미해결)](https://www.acmicpc.net/problem/4196) |                                          |
+| 11758 | G5   | [CCW](https://www.acmicpc.net/problem/11758)            | [Java](Java/baekjoon/Problem_11758.java) |
+| 12969 | G1   | [ABC](https://www.acmicpc.net/problem/12969)            | [Java](Java/baekjoon/Problem_12969.java) |
+| 18234 | G4   | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) | [Java](Java/baekjoon/Problem_18234.java) |
 
 </details>
 

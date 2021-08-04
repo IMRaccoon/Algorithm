@@ -374,9 +374,10 @@ https://solved.ac/
 <details>
 <summary>Class 5</summary>
 
-| 번호 | 티어 | 제목                                              | 풀이                                    |
-| ---- | ---- | ------------------------------------------------- | --------------------------------------- |
-| 1007 | G2   | [벡터 매칭](https://www.acmicpc.net/problem/1007) | [Java](Java/baekjoon/Problem_1007.java) |
+| 번호 | 티어 | 제목                                                     | 풀이                                    |
+| ---- | ---- | -------------------------------------------------------- | --------------------------------------- |
+| 1007 | G2   | [벡터 매칭](https://www.acmicpc.net/problem/1007)        | [Java](Java/baekjoon/Problem_1007.java) |
+| 1197 | G4   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [Java](Java/baekjoon/Problem_1197.java) |
 
 </details>
 

@@ -372,6 +372,15 @@ https://solved.ac/
 </details>
 
 <details>
+<summary>Class 5</summary>
+
+| 번호 | 티어 | 제목                                              | 풀이                                    |
+| ---- | ---- | ------------------------------------------------- | --------------------------------------- |
+| 1007 | G2   | [벡터 매칭](https://www.acmicpc.net/problem/1007) | [Java](Java/baekjoon/Problem_1007.java) |
+
+</details>
+
+<details>
 <summary>기타</summary>
 
 | 번호  | 티어 | 제목                                                                 | 풀이                                     |

@@ -214,7 +214,7 @@ https://www.acmicpc.net/
 | ----- | ---- | -------------------------------------------------------------- | ---------------------------------------- |
 | 1219  | G2   | [오민식의 고민](https://www.acmicpc.net/problem/1219)          | [Java](Java/baekjoon/Problem_1219.java)  |
 | 1766  | G2   | [문제집](https://www.acmicpc.net/problem/1766)                 | [Java](Java/baekjoon/Problem_1766.java)  |
-| 2306  | G3   | [유전자 (미해결)](https://www.acmicpc.net/problem/2306)        |                                          |
+| 2306  | G3   | [유전자](https://www.acmicpc.net/problem/2306)                 | [Java](Java/baekjoon/Problem_2306.java)  |
 | 2357  | G1   | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)        | [Java](Java/baekjoon/Problem_2357.java)  |
 | 2933  | G2   | [미네랄](https://www.acmicpc.net/problem/2933)                 | [Java](Java/baekjoon/Problem_2933.java)  |
 | 4090  | G3   | [뱀파이어 숫자 (미해결)](https://www.acmicpc.net/problem/4090) |                                          |

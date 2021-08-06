@@ -229,11 +229,11 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 1주차 [4문제]</summary>
 
-| 번호  | 티어 | 제목                                                            | 풀이 |
-| ----- | ---- | --------------------------------------------------------------- | ---- |
-| 1949  | G1   | [우수 마을 (미해결)](https://www.acmicpc.net/problem/1949)      |      |
-| 5463  | G1   | [건포도 (미해결)](https://www.acmicpc.net/problem/5463)         |      |
-| 14722 | G4   | [오민식의 고민 (미해결)](https://www.acmicpc.net/problem/14722) |      |
+| 번호  | 티어 | 제목                                                       | 풀이                                     |
+| ----- | ---- | ---------------------------------------------------------- | ---------------------------------------- |
+| 1949  | G1   | [우수 마을 (미해결)](https://www.acmicpc.net/problem/1949) |                                          |
+| 5463  | G1   | [건포도 (미해결)](https://www.acmicpc.net/problem/5463)    |                                          |
+| 14722 | G4   | [우유 도시](https://www.acmicpc.net/problem/14722)         | [Java](Java/baekjoon/Problem_14722.java) |
 
 </details>
 <br />

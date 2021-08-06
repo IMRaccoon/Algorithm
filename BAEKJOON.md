@@ -208,7 +208,7 @@ https://www.acmicpc.net/
 </details>
 
 <details>
-<summary>2021년 08월 1주차 [6문제]</summary>
+<summary>2021년 08월 2주차 [10문제]</summary>
 
 | 번호  | 티어 | 제목                                                    | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
@@ -224,7 +224,18 @@ https://www.acmicpc.net/
 | 18234 | G4   | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) | [Java](Java/baekjoon/Problem_18234.java) |
 
 </details>
+<br />
 
+<details>
+<summary>2021년 08월 1주차 [4문제]</summary>
+
+| 번호  | 티어 | 제목                                                            | 풀이 |
+| ----- | ---- | --------------------------------------------------------------- | ---- |
+| 1949  | G1   | [우수 마을 (미해결)](https://www.acmicpc.net/problem/1949)      |      |
+| 5463  | G1   | [건포도 (미해결)](https://www.acmicpc.net/problem/5463)         |      |
+| 14722 | G4   | [오민식의 고민 (미해결)](https://www.acmicpc.net/problem/14722) |      |
+
+</details>
 <br />
 
 ## SOLVED AC

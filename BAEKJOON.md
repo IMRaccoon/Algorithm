@@ -232,7 +232,7 @@ https://www.acmicpc.net/
 | 번호  | 티어 | 제목                                                    | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
 | 1949  | G1   | [우수 마을](https://www.acmicpc.net/problem/1949)       | [Java](Java/baekjoon/Problem_1949.java)  |
-| 2616  | G4   | [소방차 (미해결)](https://www.acmicpc.net/problem/2616) |                                          |
+| 2616  | G4   | [소형 기관차](https://www.acmicpc.net/problem/2616)     | [Java](Java/baekjoon/Problem_2616.java)  |
 | 5463  | G1   | [건포도 (미해결)](https://www.acmicpc.net/problem/5463) |                                          |
 | 14722 | G4   | [우유 도시](https://www.acmicpc.net/problem/14722)      | [Java](Java/baekjoon/Problem_14722.java) |
 

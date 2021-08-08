@@ -391,6 +391,7 @@ https://solved.ac/
 | 1007 | G2   | [벡터 매칭](https://www.acmicpc.net/problem/1007)        | [Java](Java/baekjoon/Problem_1007.java) |
 | 1197 | G4   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [Java](Java/baekjoon/Problem_1197.java) |
 | 1202 | G2   | [보석 도둑](https://www.acmicpc.net/problem/1202)        | [Java](Java/baekjoon/Problem_1202.java) |
+| 1208 | G2   | [부분수열의 합 2](https://www.acmicpc.net/problem/1208)  | [Java](Java/baekjoon/Problem_1208.java) |
 
 </details>
 

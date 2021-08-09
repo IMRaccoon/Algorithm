@@ -229,12 +229,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 1주차 [4문제]</summary>
 
-| 번호  | 티어 | 제목                                                    | 풀이                                     |
-| ----- | ---- | ------------------------------------------------------- | ---------------------------------------- |
-| 1949  | G1   | [우수 마을](https://www.acmicpc.net/problem/1949)       | [Java](Java/baekjoon/Problem_1949.java)  |
-| 2616  | G4   | [소형 기관차](https://www.acmicpc.net/problem/2616)     | [Java](Java/baekjoon/Problem_2616.java)  |
-| 5463  | G1   | [건포도 (미해결)](https://www.acmicpc.net/problem/5463) |                                          |
-| 14722 | G4   | [우유 도시](https://www.acmicpc.net/problem/14722)      | [Java](Java/baekjoon/Problem_14722.java) |
+| 번호  | 티어 | 제목                                                | 풀이                                     |
+| ----- | ---- | --------------------------------------------------- | ---------------------------------------- |
+| 1949  | G1   | [우수 마을](https://www.acmicpc.net/problem/1949)   | [Java](Java/baekjoon/Problem_1949.java)  |
+| 2616  | G4   | [소형 기관차](https://www.acmicpc.net/problem/2616) | [Java](Java/baekjoon/Problem_2616.java)  |
+| 5463  | G1   | [건포도](https://www.acmicpc.net/problem/5463)      | [Java](Java/baekjoon/Problem_5463.java)  |
+| 14722 | G4   | [우유 도시](https://www.acmicpc.net/problem/14722)  | [Java](Java/baekjoon/Problem_14722.java) |
 
 </details>
 <br />

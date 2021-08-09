@@ -393,6 +393,7 @@ https://solved.ac/
 | 1202 | G2   | [보석 도둑](https://www.acmicpc.net/problem/1202)        | [Java](Java/baekjoon/Problem_1202.java) |
 | 1208 | G2   | [부분수열의 합 2](https://www.acmicpc.net/problem/1208)  | [Java](Java/baekjoon/Problem_1208.java) |
 | 1509 | G1   | [팰린드롬 분할](https://www.acmicpc.net/problem/1509)    | [Java](Java/baekjoon/Problem_1509.java) |
+| 1644 | G3   | [소수의 연속합](https://www.acmicpc.net/problem/1644)    | [Java](Java/baekjoon/Problem_1644.java) |
 
 </details>
 

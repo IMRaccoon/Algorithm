@@ -231,7 +231,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                               | 풀이                                     |
 | ----- | ---- | ------------------------------------------------------------------ | ---------------------------------------- |
-| 1786  | P5   | [찾기 (미해결)](https://www.acmicpc.net/problem/1786)              |                                          |
+| 1786  | P5   | [찾기 (미해결)](https://www.acmicpc.net/problem/1786)              | [Java](Java/baekjoon/Problem_1786.java)  |
 | 1810  | G4   | [징검다리 달리기 2 (미해결)](https://www.acmicpc.net/problem/1810) |                                          |
 | 1949  | G1   | [우수 마을](https://www.acmicpc.net/problem/1949)                  | [Java](Java/baekjoon/Problem_1949.java)  |
 | 2457  | G4   | [공주님의 정원](https://www.acmicpc.net/problem/2457)              | [Java](Java/baekjoon/Problem_2457.java)  |

@@ -237,7 +237,7 @@ https://www.acmicpc.net/
 | 2457  | G4   | [공주님의 정원](https://www.acmicpc.net/problem/2457)              | [Java](Java/baekjoon/Problem_2457.java)  |
 | 2616  | G4   | [소형 기관차](https://www.acmicpc.net/problem/2616)                | [Java](Java/baekjoon/Problem_2616.java)  |
 | 5463  | G1   | [건포도](https://www.acmicpc.net/problem/5463)                     | [Java](Java/baekjoon/Problem_5463.java)  |
-| 10217 | G1   | [KCM Travel (미해결)](https://www.acmicpc.net/problem/10217)       |                                          |
+| 10217 | G1   | [KCM Travel](https://www.acmicpc.net/problem/10217)                | [Java](Java/baekjoon/Problem_10217.java) |
 | 14722 | G4   | [우유 도시](https://www.acmicpc.net/problem/14722)                 | [Java](Java/baekjoon/Problem_14722.java) |
 
 </details>

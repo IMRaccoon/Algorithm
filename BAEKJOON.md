@@ -246,12 +246,12 @@ https://www.acmicpc.net/
 <details>
 <summary>2021년 08월 3주차 [4문제]</summary>
 
-| 번호  | 티어 | 제목                                                                             | 풀이                                    |
-| ----- | ---- | -------------------------------------------------------------------------------- | --------------------------------------- |
-| 1062  | G4   | [가르침 (미해결)](https://www.acmicpc.net/problem/1062)                          | [Java](Java/baekjoon/Problem_1062.java) |
-| 1101  | G4   | [스티커 정리 1 (미해결)](https://www.acmicpc.net/problem/1101)                   |                                         |
-| 6549  | P5   | [히스토그램에서 가장 큰 직사각형 (미해결)](https://www.acmicpc.net/problem/6549) |                                         |
-| 11567 | G2   | [선진이의 겨울 왕국 (미해결)](https://www.acmicpc.net/problem/11567)             |                                         |
+| 번호  | 티어 | 제목                                                                             | 풀이                                     |
+| ----- | ---- | -------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1062  | G4   | [가르침](https://www.acmicpc.net/problem/1062)                                   | [Java](Java/baekjoon/Problem_1062.java)  |
+| 1101  | G4   | [스티커 정리 1 (미해결)](https://www.acmicpc.net/problem/1101)                   |                                          |
+| 6549  | P5   | [히스토그램에서 가장 큰 직사각형 (미해결)](https://www.acmicpc.net/problem/6549) |                                          |
+| 11567 | G2   | [선진이의 겨울 왕국](https://www.acmicpc.net/problem/11567)                      | [Java](Java/baekjoon/Problem_11567.java) |
 
 </details>
 <br />

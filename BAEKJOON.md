@@ -250,7 +250,7 @@ https://www.acmicpc.net/
 | ----- | ---- | ----------------------------------------------------------------------- | ---------------------------------------- |
 | 1062  | G4   | [가르침](https://www.acmicpc.net/problem/1062)                          | [Java](Java/baekjoon/Problem_1062.java)  |
 | 1101  | G4   | [스티커 정리 1](https://www.acmicpc.net/problem/1101)                   | [Java](Java/baekjoon/Problem_1101.java)  |
-| 1715  | G4   | [카드 정렬하기 (미해결)](https://www.acmicpc.net/problem/1715)          |                                          |
+| 1715  | G4   | [카드 정렬하기](https://www.acmicpc.net/problem/1715)                   | [Java](Java/baekjoon/Problem_1715.java)  |
 | 2931  | G3   | [가스관 (미해결)](https://www.acmicpc.net/problem/2931)                 |                                          |
 | 6549  | P5   | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [Java](Java/baekjoon/Problem_6549.java)  |
 | 11567 | G2   | [선진이의 겨울 왕국](https://www.acmicpc.net/problem/11567)             | [Java](Java/baekjoon/Problem_11567.java) |

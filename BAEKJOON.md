@@ -253,7 +253,7 @@ https://www.acmicpc.net/
 | 1715  | G4   | [카드 정렬하기](https://www.acmicpc.net/problem/1715)                   | [Java](Java/baekjoon/Problem_1715.java)  |
 | 2931  | G3   | [가스관](https://www.acmicpc.net/problem/2931)                          | [Java](Java/baekjoon/Problem_2931.java)  |
 | 6549  | P5   | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [Java](Java/baekjoon/Problem_6549.java)  |
-| 11309 | G1   | [파워!!달걀 (미해결)](https://www.acmicpc.net/problem/11309)            |                                          |
+| 11309 | P5   | [파워!!달걀](https://www.acmicpc.net/problem/11309)                     | [Java](Java/baekjoon/Problem_11309.java) |
 | 11567 | G2   | [선진이의 겨울 왕국](https://www.acmicpc.net/problem/11567)             | [Java](Java/baekjoon/Problem_11567.java) |
 | 18809 | G1   | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)                | [Java](Java/baekjoon/Problem_18809.java) |
 

@@ -451,5 +451,6 @@ https://solved.ac/
 | 10870 | B2   | [피보나치 수 5](https://www.acmicpc.net/problem/10870)               | [Java](Java/baekjoon/Problem_10870.java) |
 | 12851 | G5   | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)                  | [Java](Java/baekjoon/Problem_12851.java) |
 | 13913 | G4   | [숨바꼭질 4](https://www.acmicpc.net/problem/13913)                  | [Java](Java/baekjoon/Problem_13913.java) |
+| 19236 | G2   | [청소년 상어](https://www.acmicpc.net/problem/19236)                 | [Java](Java/baekjoon/Problem_19236.java) |
 
 </details>

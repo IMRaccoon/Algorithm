@@ -231,7 +231,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                      | 풀이                                     |
 | ----- | ---- | --------------------------------------------------------- | ---------------------------------------- |
-| 1786  | P5   | [찾기 (미해결)](https://www.acmicpc.net/problem/1786)     | [Java](Java/baekjoon/Problem_1786.java)  |
+| 1786  | P5   | [찾기](https://www.acmicpc.net/problem/1786)              | [Java](Java/baekjoon/Problem_1786.java)  |
 | 1810  | G4   | [징검다리 달리기 2](https://www.acmicpc.net/problem/1810) | [Java](Java/baekjoon/Problem_1810.java)  |
 | 1949  | G1   | [우수 마을](https://www.acmicpc.net/problem/1949)         | [Java](Java/baekjoon/Problem_1949.java)  |
 | 2457  | G4   | [공주님의 정원](https://www.acmicpc.net/problem/2457)     | [Java](Java/baekjoon/Problem_2457.java)  |
@@ -256,6 +256,18 @@ https://www.acmicpc.net/
 | 11309 | P5   | [파워!!달걀](https://www.acmicpc.net/problem/11309)                     | [Java](Java/baekjoon/Problem_11309.java) |
 | 11567 | G2   | [선진이의 겨울 왕국](https://www.acmicpc.net/problem/11567)             | [Java](Java/baekjoon/Problem_11567.java) |
 | 18809 | G1   | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)                | [Java](Java/baekjoon/Problem_18809.java) |
+
+</details>
+<br />
+
+<details>
+<summary>2021년 08월 4주차 [3문제]</summary>
+
+| 번호  | 티어 | 제목                                                                     | 풀이                                     |
+| ----- | ---- | ------------------------------------------------------------------------ | ---------------------------------------- |
+| 1477  | G4   | [휴게소 세우기 (미해결)](https://www.acmicpc.net/problem/1477)           |                                          |
+| 11505 | G1   | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)                  | [Java](Java/baekjoon/Problem_11505.java) |
+| 21611 | G2   | [마법사 상어와 블리자드 (미해결)](https://www.acmicpc.net/problem/21611) |                                          |
 
 </details>
 <br />

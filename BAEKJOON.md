@@ -267,6 +267,7 @@ https://www.acmicpc.net/
 | ----- | ---- | --------------------------------------------------------------- | ---------------------------------------- |
 | 1477  | G4   | [휴게소 세우기](https://www.acmicpc.net/problem/1477)           | [Java](Java/baekjoon/Problem_1477.java)  |
 | 11505 | G1   | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)         | [Java](Java/baekjoon/Problem_11505.java) |
+| 11869 | P4   | [님블](https://www.acmicpc.net/problem/11869)                   | [Java](Java/baekjoon/Problem_11869.java) |
 | 21611 | G2   | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | [Java](Java/baekjoon/Problem_21611.java) |
 
 </details>

@@ -261,13 +261,17 @@ https://www.acmicpc.net/
 <br />
 
 <details>
-<summary>2021년 08월 4주차 [3문제]</summary>
+<summary>2021년 08월 4주차 [8문제]</summary>
 
 | 번호  | 티어 | 제목                                                            | 풀이                                     |
 | ----- | ---- | --------------------------------------------------------------- | ---------------------------------------- |
+| 1111  | G2   | [IQ Test (미해결)](https://www.acmicpc.net/problem/1111)        |                                          |
+| 1437  | G4   | [수 분해](https://www.acmicpc.net/problem/1437)                 | [Java](Java/baekjoon/Problem_1437.java)  |
 | 1477  | G4   | [휴게소 세우기](https://www.acmicpc.net/problem/1477)           | [Java](Java/baekjoon/Problem_1477.java)  |
+| 1799  | G1   | [비숍 (미해결)](https://www.acmicpc.net/problem/1799)           |                                          |
 | 11505 | G1   | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)         | [Java](Java/baekjoon/Problem_11505.java) |
 | 11869 | P4   | [님블](https://www.acmicpc.net/problem/11869)                   | [Java](Java/baekjoon/Problem_11869.java) |
+| 15490 | G2   | [즐거운 게임 (미해결)](https://www.acmicpc.net/problem/15490)   |                                          |
 | 21611 | G2   | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | [Java](Java/baekjoon/Problem_21611.java) |
 
 </details>

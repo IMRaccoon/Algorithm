@@ -46,8 +46,9 @@ n진수 게임
 
 ### (2021년) 카카오 인턴십
 
-숫자 문자열과 영단어[Java](Java/programmers/Kakao_2021/Number_String_Word.java)
-거리두기 확인하기[Java](Java/programmers/Kakao_2021/Check_Distance.java)
+숫자 문자열과 영단어 [Java](Java/programmers/Kakao_2021/Number_String_Word.java)
+거리두기 확인하기 [Java](Java/programmers/Kakao_2021/Check_Distance.java)
+표 편집 [Java](Java/programmers/Kakao_2021/Edit_Chart.java)
 
 ### 해시
 

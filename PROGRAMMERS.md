@@ -42,6 +42,7 @@ n진수 게임
 순위 검색 [Java](Java/programmers/Kakao_2021/Search_Rank.java)
 합승 택시 요금 [Java](Java/programmers/Kakao_2021/Share_Taxi_Price.java)
 광고 삽입 [Java](Java/programmers/Kakao_2021/Insert_Ads.java)
+매출하락 최소화 [Java](Java/programmers/Kakao_2021/Minimize_Drop_Sale.java)
 
 ### 해시
 

@@ -268,7 +268,7 @@ https://www.acmicpc.net/
 | 1111  | G2   | [IQ Test (미해결)](https://www.acmicpc.net/problem/1111)        |                                          |
 | 1437  | G4   | [수 분해](https://www.acmicpc.net/problem/1437)                 | [Java](Java/baekjoon/Problem_1437.java)  |
 | 1477  | G4   | [휴게소 세우기](https://www.acmicpc.net/problem/1477)           | [Java](Java/baekjoon/Problem_1477.java)  |
-| 1799  | G1   | [비숍 (미해결)](https://www.acmicpc.net/problem/1799)           |                                          |
+| 1799  | G1   | [비숍](https://www.acmicpc.net/problem/1799)                    | [Java](Java/baekjoon/Problem_1799.java)  |
 | 11505 | G1   | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)         | [Java](Java/baekjoon/Problem_11505.java) |
 | 11869 | P4   | [님블](https://www.acmicpc.net/problem/11869)                   | [Java](Java/baekjoon/Problem_11869.java) |
 | 15490 | G2   | [즐거운 게임 (미해결)](https://www.acmicpc.net/problem/15490)   |                                          |

@@ -265,7 +265,7 @@ https://www.acmicpc.net/
 
 | 번호  | 티어 | 제목                                                            | 풀이                                     |
 | ----- | ---- | --------------------------------------------------------------- | ---------------------------------------- |
-| 1111  | G2   | [IQ Test (미해결)](https://www.acmicpc.net/problem/1111)        |                                          |
+| 1111  | G2   | [IQ Test](https://www.acmicpc.net/problem/1111)                 | [Java](Java/baekjoon/Problem_1111.java)  |
 | 1437  | G4   | [수 분해](https://www.acmicpc.net/problem/1437)                 | [Java](Java/baekjoon/Problem_1437.java)  |
 | 1477  | G4   | [휴게소 세우기](https://www.acmicpc.net/problem/1477)           | [Java](Java/baekjoon/Problem_1477.java)  |
 | 1799  | G1   | [비숍](https://www.acmicpc.net/problem/1799)                    | [Java](Java/baekjoon/Problem_1799.java)  |

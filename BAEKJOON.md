@@ -458,6 +458,7 @@ https://solved.ac/
 | 13913 | G4   | [숨바꼭질 4](https://www.acmicpc.net/problem/13913)                  | [Java](Java/baekjoon/Problem_13913.java) |
 | 19236 | G2   | [청소년 상어](https://www.acmicpc.net/problem/19236)                 | [Java](Java/baekjoon/Problem_19236.java) |
 | 19237 | G3   | [어른 상어](https://www.acmicpc.net/problem/19237)                   | [Java](Java/baekjoon/Problem_19237.java) |
+| 20056 | G5   | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)      | [Java](Java/baekjoon/Problem_20056.java) |
 | 15681 | G5   | [트리와 쿼리](https://www.acmicpc.net/problem/15681)                 | [Java](Java/baekjoon/Problem_15681.java) |
 
 </details>

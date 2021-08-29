@@ -459,7 +459,8 @@ https://solved.ac/
 | 19236 | G2   | [청소년 상어](https://www.acmicpc.net/problem/19236)                 | [Java](Java/baekjoon/Problem_19236.java) |
 | 19237 | G3   | [어른 상어](https://www.acmicpc.net/problem/19237)                   | [Java](Java/baekjoon/Problem_19237.java) |
 | 20056 | G5   | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)      | [Java](Java/baekjoon/Problem_20056.java) |
-| 20057 | G5   | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)      | [Java](Java/baekjoon/Problem_20057.java) |
+| 20057 | G4   | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)      | [Java](Java/baekjoon/Problem_20057.java) |
 | 15681 | G5   | [트리와 쿼리](https://www.acmicpc.net/problem/15681)                 | [Java](Java/baekjoon/Problem_15681.java) |
+| 10844 | S1   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                | [Java](Java/baekjoon/Problem_10844.java) |
 
 </details>

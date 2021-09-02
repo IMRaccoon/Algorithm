@@ -463,5 +463,6 @@ https://solved.ac/
 | 15681 | G5   | [트리와 쿼리](https://www.acmicpc.net/problem/15681)                 | [Java](Java/baekjoon/Problem_15681.java) |
 | 10844 | S1   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                | [Java](Java/baekjoon/Problem_10844.java) |
 | 1562  | G1   | [계단 수](https://www.acmicpc.net/problem/1562)                      | [Java](Java/baekjoon/Problem_1562.java)  |
+| 1522  | G5   | [문자열 교환](https://www.acmicpc.net/problem/1522)                  | [Java](Java/baekjoon/Problem_1522.java)  |
 
 </details>

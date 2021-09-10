@@ -464,5 +464,6 @@ https://solved.ac/
 | 10844 | S1   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                | [Java](Java/baekjoon/Problem_10844.java) |
 | 1562  | G1   | [계단 수](https://www.acmicpc.net/problem/1562)                      | [Java](Java/baekjoon/Problem_1562.java)  |
 | 1522  | G5   | [문자열 교환](https://www.acmicpc.net/problem/1522)                  | [Java](Java/baekjoon/Problem_1522.java)  |
+| 17845 | G5   | [수강 과목](https://www.acmicpc.net/problem/17845)                   | [Java](Java/baekjoon/Problem_17845.java) |
 
 </details>

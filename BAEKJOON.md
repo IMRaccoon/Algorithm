@@ -466,5 +466,6 @@ https://solved.ac/
 | 1522  | G5   | [문자열 교환](https://www.acmicpc.net/problem/1522)                  | [Java](Java/baekjoon/Problem_1522.java)  |
 | 17845 | G5   | [수강 과목](https://www.acmicpc.net/problem/17845)                   | [Java](Java/baekjoon/Problem_17845.java) |
 | 2806  | G4   | [DNA 발견](https://www.acmicpc.net/problem/2806)                     | [Java](Java/baekjoon/Problem_2806.java)  |
+| 1013  | G5   | [Contact](https://www.acmicpc.net/problem/1013)                      | [Java](Java/baekjoon/Problem_1013.java)  |
 
 </details>

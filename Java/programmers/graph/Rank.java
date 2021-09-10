@@ -1,6 +1,5 @@
 package graph;
 
-import java.util.ArrayList;
 
 public class Rank {
     public static void main(String[] args) {
@@ -8,47 +7,34 @@ public class Rank {
     }
     private Rank() {
         System.out.println(solution(5, new int[][]{{4, 3}, {4, 2}, {3, 2}, {1, 2}, {2, 5}}));
+        System.out.println(solution(5, new int[][]{{1, 2}, {2, 3}, {3, 4}, {4, 5}}));
     }
     public int solution(int n, int [][] results) {
-        int answer = 0;
-        int length = results.length;
-        Graph [] graphs = new Graph[n];
-        for(int i = 0 ; i<n; i++) graphs[i] = new Graph();
-        for(int i = 0; i<length; i++) {
-            graphs[results[i][0]-1].addWinGame(graphs[results[i][1]-1]);
-            graphs[results[i][1]-1].addLoseGame(graphs[results[i][0]-1]);
-        }
-        for(Graph graph : graphs) if(graph.players == n-1) answer += 1;
-        return answer;
-    }
-    private class Graph {
-        int [] plays;
-        int players;
-        private ArrayList<Graph> winners;
-        private ArrayList<Graph> losers;
-
-        public Graph() {
-            plays = new int[] {0, 0};       // plays[0] = win count, plays[1] = lose count
-            players = 0;
-            winners = new ArrayList<>();
-            losers = new ArrayList<>();
+        boolean [][] meet = new boolean[n + 1][n + 1];
+        for(int [] result: results) {
+            meet[result[0]][result[1]] = true;
         }
 
-        public void addWinGame(Graph loser) {
-            if(!losers.contains(loser)) {
-                losers.add(loser);
-                this.plays[0]++;
-
+        for(int k = 1; k <= n; k++) {
+            for (int i = 1; i <= n; i++) {
+                for (int j = 1; j <= n; j++) {
+                    if(i != j && meet[i][k] && meet[k][j]) meet[i][j] = true;
+                }
             }
-            // winner들에게 자기 자신을 다 추가해줘야되나...?
+        }
+        int count = 0;
+
+        for(int i = 1; i <= n; i++) {
+            boolean isFull = true;
+            for(int j = 1; j <= n; j++) {
+                if(i != j && !(meet[i][j] || meet[j][i])) {
+                    isFull = false;
+                    break;
+                }
+            }
+            if(isFull) count += 1;
         }
 
-        public void addLoseGame(Graph winner) {
-            if(!winners.contains(winner)) {
-                winners.add(winner);
-                this.plays[1]++;
-            }
-            // 자식 Loser들 다 추가해줘야됨
-        }
+        return count;
     }
 }

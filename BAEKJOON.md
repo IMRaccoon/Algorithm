@@ -467,5 +467,6 @@ https://solved.ac/
 | 17845 | G5   | [수강 과목](https://www.acmicpc.net/problem/17845)                   | [Java](Java/baekjoon/Problem_17845.java) |
 | 2806  | G4   | [DNA 발견](https://www.acmicpc.net/problem/2806)                     | [Java](Java/baekjoon/Problem_2806.java)  |
 | 1013  | G5   | [Contact](https://www.acmicpc.net/problem/1013)                      | [Java](Java/baekjoon/Problem_1013.java)  |
+| 2229  | G5   | [조 짜기](https://www.acmicpc.net/problem/2229)                      | [Java](Java/baekjoon/Problem_2229.java)  |
 
 </details>

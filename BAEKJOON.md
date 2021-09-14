@@ -469,5 +469,6 @@ https://solved.ac/
 | 1013  | G5   | [Contact](https://www.acmicpc.net/problem/1013)                      | [Java](Java/baekjoon/Problem_1013.java)  |
 | 2229  | G5   | [조 짜기](https://www.acmicpc.net/problem/2229)                      | [Java](Java/baekjoon/Problem_2229.java)  |
 | 14719 | G5   | [빗물](https://www.acmicpc.net/problem/14719)                        | [Java](Java/baekjoon/Problem_14719.java) |
+| 12886 | G5   | [돌 그룹](https://www.acmicpc.net/problem/12886)                     | [Java](Java/baekjoon/Problem_12886.java) |
 
 </details>

@@ -271,7 +271,7 @@ https://www.acmicpc.net/
 | 1799  | G1   | [비숍](https://www.acmicpc.net/problem/1799)                    | [Java](Java/baekjoon/Problem_1799.java)  |
 | 11505 | G1   | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)         | [Java](Java/baekjoon/Problem_11505.java) |
 | 11869 | P4   | [님블](https://www.acmicpc.net/problem/11869)                   | [Java](Java/baekjoon/Problem_11869.java) |
-| 15490 | G2   | [즐거운 게임 (미해결)](https://www.acmicpc.net/problem/15490)   |                                          |
+| 15490 | G1   | [즐거운 게임](https://www.acmicpc.net/problem/15490)            |                                          |
 | 21611 | G2   | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | [Java](Java/baekjoon/Problem_21611.java) |
 
 </details>
@@ -284,12 +284,12 @@ https://solved.ac/
 <details>
 <summary>Class 1</summary>
 
-| 번호 | 티어 | 제목                                           | 풀이                                                                         |
-| ---- | ---- | ---------------------------------------------- | ---------------------------------------------------------------------------- |
-| 2475 | B5   | [검증수](https://www.acmicpc.net/problem/2475) | [Java](Java/baekjoon/Problem_2475.java) [C++](Cpp/baekjoon/Problem_2475.cpp) |
-| 2562 | B2   | [최댓값](https://www.acmicpc.net/problem/2562) | [Java](Java/baekjoon/Problem_2562.java)                                      |
-| 2753 | B4   | [윤년](https://www.acmicpc.net/problem/2753)   | [Java](Java/baekjoon/Problem_2753.java)                                      |
-| 3052 | B2   | [나머지](https://www.acmicpc.net/problem/3052) | [Java](Java/baekjoon/Problem_3052.java)                                      |
+| 번호 | 티어 | 제목                                           | 풀이                                    |
+| ---- | ---- | ---------------------------------------------- | --------------------------------------- |
+| 2475 | B5   | [검증수](https://www.acmicpc.net/problem/2475) | [Java](Java/baekjoon/Problem_2475.java) |
+| 2562 | B2   | [최댓값](https://www.acmicpc.net/problem/2562) | [Java](Java/baekjoon/Problem_2562.java) |
+| 2753 | B4   | [윤년](https://www.acmicpc.net/problem/2753)   | [Java](Java/baekjoon/Problem_2753.java) |
+| 3052 | B2   | [나머지](https://www.acmicpc.net/problem/3052) | [Java](Java/baekjoon/Problem_3052.java) |
 
 </details>
 
@@ -470,5 +470,6 @@ https://solved.ac/
 | 2229  | G5   | [조 짜기](https://www.acmicpc.net/problem/2229)                      | [Java](Java/baekjoon/Problem_2229.java)  |
 | 14719 | G5   | [빗물](https://www.acmicpc.net/problem/14719)                        | [Java](Java/baekjoon/Problem_14719.java) |
 | 12886 | G5   | [돌 그룹](https://www.acmicpc.net/problem/12886)                     | [Java](Java/baekjoon/Problem_12886.java) |
+| 6068  | G5   | [시간 관리하기](https://www.acmicpc.net/problem/6068)                | [Java](Java/baekjoon/Problem_6068.java)  |
 
 </details>

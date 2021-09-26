@@ -472,5 +472,6 @@ https://solved.ac/
 | 12886 | G5   | [돌 그룹](https://www.acmicpc.net/problem/12886)                     | [Java](Java/baekjoon/Problem_12886.java) |
 | 6068  | G5   | [시간 관리하기](https://www.acmicpc.net/problem/6068)                | [Java](Java/baekjoon/Problem_6068.java)  |
 | 20437 | G5   | [문자열 게임 2](https://www.acmicpc.net/problem/20437)               | [Java](Java/baekjoon/Problem_20437.java) |
+| 2225  | G5   | [합분해](https://www.acmicpc.net/problem/2225)                       | [Java](Java/baekjoon/Problem_2225.java)  |
 
 </details>

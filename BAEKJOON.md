@@ -471,5 +471,6 @@ https://solved.ac/
 | 14719 | G5   | [빗물](https://www.acmicpc.net/problem/14719)                        | [Java](Java/baekjoon/Problem_14719.java) |
 | 12886 | G5   | [돌 그룹](https://www.acmicpc.net/problem/12886)                     | [Java](Java/baekjoon/Problem_12886.java) |
 | 6068  | G5   | [시간 관리하기](https://www.acmicpc.net/problem/6068)                | [Java](Java/baekjoon/Problem_6068.java)  |
+| 20437 | G5   | [문자열 게임 2](https://www.acmicpc.net/problem/20437)               | [Java](Java/baekjoon/Problem_20437.java) |
 
 </details>

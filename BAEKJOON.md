@@ -475,5 +475,6 @@ https://solved.ac/
 | 2225  | G5   | [합분해](https://www.acmicpc.net/problem/2225)                       | [Java](Java/baekjoon/Problem_2225.java)  |
 | 1256  | G3   | [사전](https://www.acmicpc.net/problem/1256)                         | [Java](Java/baekjoon/Problem_1256.java)  |
 | 3078  | G3   | [좋은 친구](https://www.acmicpc.net/problem/3078)                    | [Java](Java/baekjoon/Problem_3078.java)  |
+| 16916 | G4   | [부분 문자열](https://www.acmicpc.net/problem/16916)                 | [Java](Java/baekjoon/Problem_16916.java) |
 
 </details>

@@ -436,6 +436,15 @@ https://solved.ac/
 </details>
 
 <details>
+<summary>삼성 SW 역량 테스트 기출 문제</summary>
+
+| 번호  | 티어 | 제목                                                 | 풀이                                     |
+| ----- | ---- | ---------------------------------------------------- | ---------------------------------------- |
+| 12100 | G2   | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [Java](Java/baekjoon/Problem_12100.java) |
+
+</details>
+
+<details>
 <summary>기타</summary>
 
 | 번호  | 티어 | 제목                                                                 | 풀이                                     |

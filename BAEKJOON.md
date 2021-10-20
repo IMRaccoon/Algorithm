@@ -438,11 +438,12 @@ https://solved.ac/
 <details>
 <summary>삼성 SW 역량 테스트 기출 문제</summary>
 
-| 번호  | 티어 | 제목                                                 | 풀이                                     |
-| ----- | ---- | ---------------------------------------------------- | ---------------------------------------- |
-| 12100 | G2   | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [Java](Java/baekjoon/Problem_12100.java) |
-| 13458 | B2   | [시험 감독](https://www.acmicpc.net/problem/13458)   | [Java](Java/baekjoon/Problem_13458.java) |
-| 14501 | S3   | [퇴사](https://www.acmicpc.net/problem/14501)        | [Java](Java/baekjoon/Problem_14501.java) |
+| 번호  | 티어 | 제목                                                     | 풀이                                     |
+| ----- | ---- | -------------------------------------------------------- | ---------------------------------------- |
+| 12100 | G2   | [2048 (Easy)](https://www.acmicpc.net/problem/12100)     | [Java](Java/baekjoon/Problem_12100.java) |
+| 13458 | B2   | [시험 감독](https://www.acmicpc.net/problem/13458)       | [Java](Java/baekjoon/Problem_13458.java) |
+| 14501 | S3   | [퇴사](https://www.acmicpc.net/problem/14501)            | [Java](Java/baekjoon/Problem_14501.java) |
+| 14888 | S1   | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [Java](Java/baekjoon/Problem_14888.java) |
 
 </details>
 

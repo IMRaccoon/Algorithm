@@ -445,6 +445,7 @@ https://solved.ac/
 | 14501 | S3   | [퇴사](https://www.acmicpc.net/problem/14501)            | [Java](Java/baekjoon/Problem_14501.java) |
 | 14888 | S1   | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [Java](Java/baekjoon/Problem_14888.java) |
 | 14889 | S3   | [스타트와 링크](https://www.acmicpc.net/problem/14889)   | [Java](Java/baekjoon/Problem_14889.java) |
+| 13460 | G2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     | [Java](Java/baekjoon/Problem_13460.java) |
 
 </details>
 

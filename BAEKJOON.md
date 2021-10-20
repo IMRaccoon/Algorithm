@@ -442,6 +442,7 @@ https://solved.ac/
 | ----- | ---- | ---------------------------------------------------- | ---------------------------------------- |
 | 12100 | G2   | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [Java](Java/baekjoon/Problem_12100.java) |
 | 13458 | B2   | [시험 감독](https://www.acmicpc.net/problem/13458)   | [Java](Java/baekjoon/Problem_13458.java) |
+| 14501 | S3   | [퇴사](https://www.acmicpc.net/problem/14501)        | [Java](Java/baekjoon/Problem_14501.java) |
 
 </details>
 

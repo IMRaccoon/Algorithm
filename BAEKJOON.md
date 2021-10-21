@@ -447,6 +447,7 @@ https://solved.ac/
 | 14889 | S3   | [스타트와 링크](https://www.acmicpc.net/problem/14889)   | [Java](Java/baekjoon/Problem_14889.java) |
 | 13460 | G2   | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     | [Java](Java/baekjoon/Problem_13460.java) |
 | 3190  | G5   | [뱀](https://www.acmicpc.net/problem/3190)               | [Java](Java/baekjoon/Problem_3190.java)  |
+| 14499 | G4   | [주사위 굴리기](https://www.acmicpc.net/problem/14499)   | [Java](Java/baekjoon/Problem_14499.java) |
 
 </details>
 

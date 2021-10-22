@@ -449,6 +449,7 @@ https://solved.ac/
 | 3190  | G5   | [뱀](https://www.acmicpc.net/problem/3190)               | [Java](Java/baekjoon/Problem_3190.java)  |
 | 14499 | G4   | [주사위 굴리기](https://www.acmicpc.net/problem/14499)   | [Java](Java/baekjoon/Problem_14499.java) |
 | 14890 | G3   | [경사로](https://www.acmicpc.net/problem/14890)          | [Java](Java/baekjoon/Problem_14890.java) |
+| 14891 | G5   | [톱니바퀴](https://www.acmicpc.net/problem/14891)        | [Java](Java/baekjoon/Problem_14891.java) |
 
 </details>
 

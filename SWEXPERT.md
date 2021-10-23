@@ -11,3 +11,4 @@ https://swexpertacademy.com/
 | 1249 | D4     | [보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)                    | [Java](Java/swexpert/Problem_1249.java) |
 | 2819 | D4     | [격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB) | [Java](Java/swexpert/Problem_2819.java) |
 | 3752 | D4     | [가능한 시험 점수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn)          | [Java](Java/swexpert/Problem_3752.java) |
+| 1244 | D3     | [최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)                 | [Java](Java/swexpert/Problem_1244.java) |
